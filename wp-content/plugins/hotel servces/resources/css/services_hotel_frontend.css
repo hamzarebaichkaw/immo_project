@@ -1,0 +1,82 @@
+.frontend_prix_wifi
+{
+    width: 30%;
+    
+    
+}
+.enregister_prix_services{
+    
+    
+    transition: .1s ease-out;
+    transition-property: all;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-out;
+    transition-delay: 0s;
+    
+    margin-top: 15px;
+    margin-right: 50px;
+    background-color: bleu;
+    
+    font-size: 13px;
+    width: 150px;
+    float: right ;
+    /*    border: 1px solid #006286;*/
+    height: 50px;
+    padding: 7px;
+    border-radius: 3px;
+    cursor: pointer;
+   
+    
+    
+}
+.frontend_prix_menage{
+    width: 120px;
+    
+}
+table{
+    border-radius: 1px;
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 50%
+}
+td{
+        background-color: beige;
+        width: 2%;
+
+}
+.bloc_services
+{
+    width: 400px;
+    height: 300px;
+        
+}
+h3{
+    
+    font-family:cursive;
+    font-size: 24px;
+    color:darkblue;
+    
+    margin-top: 5px;
+    text-align: center;
+    
+}
+.icon_services_admin
+{
+    width: 100px;
+    height: 90px;
+    margin-left: 5px;
+    margin-top: 5px;
+    
+}
+
+.PARGRAPHE_SERVICES_info
+{
+    
+    
+    font-family:fantasy;
+    font-size: 15px;
+    color: black;
+    margin-top: 60px; 
+        
+    
+}

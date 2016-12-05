@@ -1,0 +1,15 @@
+.table > tbody > tr > th {
+    text-align:center;
+}
+.table > tbody > tr > td.size {
+    width: 14.28571428571429%
+}
+.table > tbody > tr > td .parent-row {
+    position: relative;
+}
+.table > tbody > tr > td > h4 {
+    text-align:right;
+}
+.container-fluid .row button {
+    position: absolute;
+}

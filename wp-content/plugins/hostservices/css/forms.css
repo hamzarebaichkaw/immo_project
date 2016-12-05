@@ -1,0 +1,71 @@
+.pippin_form label { display: block; float: left; width: 130px; }
+.pippin_form input[type="text"], .pippin_form input[type="password"],
+.pippin_form input[type="email"] {
+	padding: 4px 8px;
+	background: #f0f0f0;
+	border: 1px solid #ccc;
+}
+.pippin_form input[type="text"]:focus, .pippin_form input[type="password"]:focus,
+.pippin_form input[type="email"]:focus {
+	border-color: #aaa;
+}
+ 
+.pippin_errors { padding: 8px; border: 1px solid #f50; margin: 0 0 15px; }
+.service_form_filds{
+
+border-color:floralwhite;
+padding: 8px 8px;
+	background-color:azure; 
+	border: 1px solid #ccc;
+	font-style: bold;
+   
+}
+.nom_service{
+font-family: fantasy;
+    color: darkblue;
+font-size: 17px;
+
+}
+.nom_service button:focus{
+    text-align: right;
+    
+    
+}
+.service_form_filds
+{padding: 20px;
+   margin: 10px;
+   background-color:darkcyan;
+   color:black;
+   font-size: 18px;
+   font-weight: bold;
+   line-height: 2.3em;
+   border: 2px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 10px darkcyan , 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+
+    
+    
+    
+}
+button{
+    
+    align-items:center;
+    
+}
+.lists_services_host{
+  padding: 20px;
+   margin: 10px;
+   background-color:darkcyan;
+   color:black;
+   font-size: 18px;
+   font-weight: bold;
+   line-height: 2.3em;
+   border: 2px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 10px darkcyan , 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+
+}

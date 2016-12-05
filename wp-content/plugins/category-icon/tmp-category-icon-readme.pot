@@ -1,0 +1,38 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Category Icon"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "A WordPress plugin to easily add an icon to a category, tag or any other taxonomy."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "** Now supports a category featured image field"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Install Category Icon either via the WordPress.org plugin directory, or by uploading the files to your <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "After activating Category Icon go and edit any category or term to see the upload field."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Now You can add or edit category icons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add a category image field to be used as featured category image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Deploy on wordpress.org"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Init Plugin"
+msgstr ""

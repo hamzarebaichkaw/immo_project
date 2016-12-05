@@ -1,0 +1,55 @@
+.bookly-customer-appointment-list p {
+    font-weight: bold;
+}
+
+.bookly-customer-appointment-list h2 {
+    margin: 20px 0;
+    font-size: 25px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid silver;
+}
+
+.bookly-customer-appointment-list .ab-appointments-table {
+    border: 1px solid silver;
+    border-collapse: collapse;
+    table-layout: auto;
+}
+
+.bookly-customer-appointment-list .ab-appointments-table th {
+    background: #dddddd;
+    font-size: 14px;
+    padding: 5px;
+    border: 0;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.bookly-customer-appointment-list table.ab-appointments-table td {
+    font-size: 14px;
+    padding: 5px;
+    background: #EEEEEE;
+    text-align: center;
+    border: 1px solid silver;
+    vertical-align: middle;
+}
+
+.bookly-customer-appointment-list .ab-appointments-table td .ab-btn {
+    padding: 5px 10px!important;
+    width: auto;
+    min-width: auto;
+    font-size: 11px!important;
+}
+
+.bookly-customer-appointment-list table.bookly-extras {
+    border: 0 !important;
+    hyphens: auto;
+    table-layout: auto;
+    margin: 0;
+}
+
+.bookly-customer-appointment-list table.bookly-extras td {
+    border: 0 !important;
+    padding: 0 0 0 2px;
+    white-space: nowrap;
+    text-align: left;
+}

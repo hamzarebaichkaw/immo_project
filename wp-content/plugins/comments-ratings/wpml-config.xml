@@ -1,0 +1,12 @@
+<wpml-config>
+    <admin-texts>
+        <key name="pixreviews_settings">
+            <key name="review_rating_label" />
+            <key name="review_title_label" />
+            <key name="review_title_placeholder" />
+            <key name="review_label" />
+            <key name="review_placeholder" />
+            <key name="review_submit_button" />
+        </key>
+    </admin-texts>
+</wpml-config>

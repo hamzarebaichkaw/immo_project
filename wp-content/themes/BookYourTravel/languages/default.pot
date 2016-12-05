@@ -1,0 +1,6849 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Book Your Travel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-07 16:25+0100\n"
+"PO-Revision-Date: 2015-05-07 16:25+0100\n"
+"Last-Translator: ThemeEnergy <support@themeenergy.com>\n"
+"Language-Team: themeenergy <support@themeenergy.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../404.php:19
+msgid "404"
+msgstr ""
+
+#: ../404.php:20
+msgid "Page not found"
+msgstr ""
+
+#: ../404.php:25
+msgid "Whoops, you are in the middle of nowhere."
+msgstr ""
+
+#: ../404.php:26
+msgid "Don't worry. You've probably made a wrong turn somewhwere."
+msgstr ""
+
+#: ../404.php:28
+msgid "If you typed in the address, check your spelling. Could just be a typo."
+msgstr ""
+
+#: ../404.php:29
+#, php-format
+msgid ""
+"If you followed a link, it's probably broken. Please <a href=\"%s\">contact "
+"us</a> and we'll fix it."
+msgstr ""
+
+#: ../404.php:30
+#, php-format
+msgid ""
+"If you're not sure what you're looking for, go back to <a href=\"%s"
+"\">homepage</a>."
+msgstr ""
+
+#: ../blog.php:36 ../index.php:29 ../search.php:23
+#: ../single-accommodation.php:1 ../single-cruise.php:332
+#: ../single-tour.php:182 ../single.php:13
+msgid "Date"
+msgstr ""
+
+#: ../blog.php:37 ../index.php:30 ../search.php:24 ../single.php:14
+msgid "By "
+msgstr ""
+
+#: ../blog.php:38 ../includes/plugins/widgets/widget-post-list.php:171
+#: ../index.php:31 ../search.php:25 ../single.php:15
+msgid "Categories"
+msgstr ""
+
+#: ../blog.php:42 ../comments.php:14 ../index.php:35 ../search.php:29
+#: ../single.php:19
+msgid "No comments"
+msgstr ""
+
+#: ../blog.php:42 ../index.php:35 ../search.php:29 ../single.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: ../blog.php:42 ../index.php:35 ../search.php:29 ../single.php:19
+msgid "% Comments"
+msgstr ""
+
+#: ../blog.php:58 ../index.php:51 ../search.php:45
+msgid "Read More..."
+msgstr ""
+
+#: ../blog.php:65 ../index.php:58 ../search.php:52
+msgid "There has been an error."
+msgstr ""
+
+#: ../blog.php:68 ../index.php:61 ../search.php:55
+msgid ""
+"We apologize for any inconvenience, please hit back on your browser or if "
+"you are an admin, enter some content."
+msgstr ""
+
+#: ../blog.php:74 ../custom-search-results.php:1 ../index.php:67
+#: ../page-accommodation-list.php:115 ../page-car_rental-list.php:109
+#: ../page-cruise-list.php:99 ../page-location-list.php:91
+#: ../page-tour-list.php:108 ../page-user-content-list.php:116
+#: ../page-user-content-list.php:218 ../search.php:61 ../single-location.php:1
+msgid "Back up"
+msgstr ""
+
+#: ../byt_home.php:41 ../page-accommodation-list.php:93
+#: ../page-car_rental-list.php:84 ../page-cruise-list.php:77
+#: ../page-location-list.php:71 ../page-tour-list.php:83
+#: ../page-user-submit-content.php:88 ../page.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:14
+msgid "One comment"
+msgstr ""
+
+#: ../comments.php:14
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../comments.php:18
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:19
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:20
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:39
+#, php-format
+msgid ""
+"You must be <a href=\"%s/wp-login.php?redirect_to=%s\">logged in</a> to post "
+"a comment."
+msgstr ""
+
+#: ../comments.php:45
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: ../comments.php:45
+#, php-format
+msgid "<a href=\"%s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: ../comments.php:49
+msgid ""
+"<strong>Note:</strong> Comments on the web site reflect the views of their "
+"authors, and not necessarily the views of the bookyourtravel internet "
+"portal. Requested to refrain from insults, swearing and vulgar expression. "
+"We reserve the right to delete any comment without notice explanations."
+msgstr ""
+
+#: ../comments.php:50
+msgid ""
+"Your email address will not be published. Required fields are signed with "
+"<span class=\"req\">*</span>"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:80
+#: ../includes/admin/theme_accommodation_booking_admin.php:613
+#: ../includes/admin/theme_car_rental_booking_admin.php:398
+#: ../includes/admin/theme_car_rental_booking_admin.php:666
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:398
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:723
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:400
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:685
+#: ../includes/parts/register-lightbox.php:26 ../page-user-account.php:134
+#: ../page-user-register.php:254 ../woocommerce/order/order-details.php:172
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:91
+msgid "Website"
+msgstr ""
+
+#: ../custom-search-results.php:1
+msgid "Sort by"
+msgstr ""
+
+#: ../custom-search-results.php:1
+#: ../includes/admin/theme_cruise_schedule_admin.php:333
+#: ../includes/admin/theme_cruise_schedule_admin.php:726
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:224
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:689
+#: ../includes/admin/theme_tour_schedule_admin.php:300
+#: ../includes/admin/theme_tour_schedule_admin.php:638
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:225
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:652
+#: ../page-user-content-list.php:209 ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: ../custom-search-results.php:1
+msgid "ascending"
+msgstr ""
+
+#: ../custom-search-results.php:1
+msgid "descending"
+msgstr ""
+
+#: ../custom-search-results.php:1
+msgid "Stars"
+msgstr ""
+
+#: ../custom-search-results.php:1
+msgid "Rating"
+msgstr ""
+
+#: ../custom-search-results.php:1
+msgid "grid view"
+msgstr ""
+
+#: ../custom-search-results.php:1
+msgid "list view"
+msgstr ""
+
+#: ../custom-search-results.php:1
+msgid ""
+"Unfortunately no results match your search criteria. Please try searching "
+"for something else."
+msgstr ""
+
+#: ../footer.php:31 ../header.php:130 ../includes/theme_utils.php:423
+msgid "Home"
+msgstr ""
+
+#: ../footer.php:32 ../header.php:131
+msgid "Configure"
+msgstr ""
+
+#: ../functions.php:162
+#: ../includes/plugins/class-tgm-plugin-activation.php:226
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:163
+#: ../includes/plugins/class-tgm-plugin-activation.php:227
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:164
+#: ../includes/plugins/class-tgm-plugin-activation.php:228
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:165
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:176
+#: ../includes/plugins/class-tgm-plugin-activation.php:240
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:177
+#: ../includes/plugins/class-tgm-plugin-activation.php:242
+#: ../includes/plugins/class-tgm-plugin-activation.php:2107
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:178
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../header.php:79 ../header.php:91 ../woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: ../header.php:81 ../includes/parts/login-lightbox.php:30
+#: ../page-user-login.php:72 ../page-user-login.php:98
+msgid "Login"
+msgstr ""
+
+#: ../header.php:84 ../includes/parts/register-lightbox.php:20
+#: ../page-user-register.php:286
+msgid "Register"
+msgstr ""
+
+#: ../header.php:88 ../header.php:96
+msgid "Cart"
+msgstr ""
+
+#: ../header.php:93
+msgid "Dashboard"
+msgstr ""
+
+#: ../header.php:99
+msgid "Logout"
+msgstr ""
+
+#: ../header.php:112
+msgid "Search entire site here"
+msgstr ""
+
+#: ../header.php:119
+msgid "24/7 Support number"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:42
+msgid "BYT Accommodation Bookings"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:42
+#: ../includes/admin/theme_accommodation_booking_admin.php:81
+#: ../includes/admin/theme_car_rental_booking_admin.php:39
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:39
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:77
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:40
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:78
+msgid "Bookings"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:89
+msgid "<h2>BYT Accommodation bookings</h2>"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:108
+#: ../includes/admin/theme_accommodation_booking_admin.php:122
+#: ../includes/admin/theme_accommodation_booking_admin.php:676
+#: ../includes/admin/theme_car_rental_booking_admin.php:713
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:804
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:766
+msgid "Add Booking"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:188
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/accommodation-confirmation-form.php:43
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/cruise-confirmation-form.php:51
+#: ../includes/parts/tour-booking-form.php:1
+#: ../includes/parts/tour-confirmation-form.php:51
+#: ../page-user-account.php:203 ../single-accommodation.php:1
+#: ../single-cruise.php:313 ../single-cruise.php:325 ../single-tour.php:163
+#: ../single-tour.php:175
+msgid "Adults"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:189
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/accommodation-confirmation-form.php:47
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/cruise-confirmation-form.php:55
+#: ../includes/parts/tour-booking-form.php:1
+#: ../includes/parts/tour-confirmation-form.php:55
+#: ../page-user-account.php:207 ../single-accommodation.php:1
+#: ../single-cruise.php:317 ../single-cruise.php:327 ../single-tour.php:167
+#: ../single-tour.php:177
+msgid "Children"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:190
+#: ../includes/admin/theme_accommodation_booking_admin.php:663
+#: ../includes/admin/theme_car_rental_booking_admin.php:450
+#: ../includes/admin/theme_car_rental_booking_admin.php:701
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:434
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:791
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:436
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:753
+#: ../includes/parts/accommodation-confirmation-form.php:59
+#: ../includes/parts/car_rental-confirmation-form.php:63
+#: ../includes/parts/cruise-confirmation-form.php:59
+#: ../includes/parts/tour-confirmation-form.php:59
+#: ../page-user-account.php:211 ../single-accommodation.php:1
+#: ../single-cruise.php:329 ../single-cruise.php:330 ../single-tour.php:179
+#: ../single-tour.php:180
+msgid "Total price"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:206
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:292
+#: ../includes/admin/theme_car_rental_booking_admin.php:211
+#: ../includes/admin/theme_cruise_schedule_admin.php:314
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:206
+#: ../includes/admin/theme_tour_schedule_admin.php:282
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:208
+#: ../includes/parts/accommodation-item.php:77 ../page-user-account.php:113
+#: ../page-user-account.php:127 ../page-user-account.php:141
+#: ../page-user-account.php:156 ../page-user-content-list.php:189
+#: ../page-user-content-list.php:276
+msgid "Edit"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:209
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:290
+#: ../includes/admin/theme_car_rental_booking_admin.php:214
+#: ../includes/admin/theme_cruise_schedule_admin.php:245
+#: ../includes/admin/theme_cruise_schedule_admin.php:311
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:209
+#: ../includes/admin/theme_tour_schedule_admin.php:227
+#: ../includes/admin/theme_tour_schedule_admin.php:279
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:211
+msgid "Are you sure?"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:209
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:290
+#: ../includes/admin/theme_car_rental_booking_admin.php:214
+#: ../includes/admin/theme_cruise_schedule_admin.php:311
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:209
+#: ../includes/admin/theme_tour_schedule_admin.php:279
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:211
+msgid "Delete"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:219
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:302
+#: ../includes/admin/theme_car_rental_booking_admin.php:224
+#: ../includes/admin/theme_cruise_schedule_admin.php:326
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:219
+#: ../includes/admin/theme_tour_schedule_admin.php:294
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:221
+msgid "Id"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:220
+#: ../includes/admin/theme_car_rental_booking_admin.php:225
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:220
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:222
+msgid "Customer"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:221
+#: ../includes/admin/theme_car_rental_booking_admin.php:226
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:689
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:652
+msgid "From"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:222
+#: ../includes/admin/theme_car_rental_booking_admin.php:227
+msgid "To"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:223
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1007
+#: ../includes/post_types/reviews.php:45 ../includes/theme_meta_boxes.php:25
+#: ../includes/theme_of_default_fields.php:229
+#: ../includes/theme_post_types.php:41
+msgid "Accommodation"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:224
+msgid "Details"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:225
+#: ../includes/admin/theme_car_rental_booking_admin.php:231
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:225
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:227
+msgid "Created"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:226
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:310
+#: ../includes/admin/theme_car_rental_booking_admin.php:232
+#: ../includes/admin/theme_cruise_schedule_admin.php:334
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:227
+#: ../includes/admin/theme_tour_schedule_admin.php:302
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:229
+msgid "Action"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:322
+#: ../includes/admin/theme_car_rental_booking_admin.php:324
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:328
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:328
+msgid "Successfully deleted booking!"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:361
+msgid "Successfully inserted new accommodation booking entry!"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:369
+msgid "Successfully updated accommodation booking entry!"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:519
+msgid "Update Accommodation Booking"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:521
+msgid "Add Accommodation Booking"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:530
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:544
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:648
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1006
+#: ../page-user-content-list.php:153
+msgid "Select accommodation"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:545
+msgid "Select accommodation enry"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:557
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:565
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:654
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1009
+msgid "Select room type"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:573
+msgid "Select room type entry"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:581
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:664
+#: ../includes/admin/theme_car_rental_booking_admin.php:442
+#: ../includes/parts/accommodation-confirmation-form.php:51
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/car_rental-confirmation-form.php:47
+msgid "Date from"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:592
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:675
+#: ../includes/admin/theme_car_rental_booking_admin.php:446
+#: ../includes/parts/accommodation-confirmation-form.php:55
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/car_rental-confirmation-form.php:51
+msgid "Date to"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:603
+#: ../includes/admin/theme_car_rental_booking_admin.php:390
+#: ../includes/admin/theme_car_rental_booking_admin.php:656
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:390
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:713
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:392
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:675
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/accommodation-confirmation-form.php:11
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/car_rental-confirmation-form.php:11
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/cruise-confirmation-form.php:11
+#: ../includes/parts/tour-booking-form.php:1
+#: ../includes/parts/tour-confirmation-form.php:11
+#: ../page-user-account.php:102 ../page-user-account.php:106
+msgid "First name"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:608
+#: ../includes/admin/theme_car_rental_booking_admin.php:394
+#: ../includes/admin/theme_car_rental_booking_admin.php:661
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:394
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:718
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:396
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:680
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/accommodation-confirmation-form.php:15
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/car_rental-confirmation-form.php:15
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/cruise-confirmation-form.php:15
+#: ../includes/parts/tour-booking-form.php:1
+#: ../includes/parts/tour-confirmation-form.php:15
+#: ../page-user-account.php:116 ../page-user-account.php:120
+msgid "Last name"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:618
+#: ../includes/admin/theme_car_rental_booking_admin.php:402
+#: ../includes/admin/theme_car_rental_booking_admin.php:671
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:402
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:728
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:404
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:690
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/accommodation-confirmation-form.php:23
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/car_rental-confirmation-form.php:23
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/cruise-confirmation-form.php:23
+#: ../includes/parts/tour-booking-form.php:1
+#: ../includes/parts/tour-confirmation-form.php:23
+msgid "Phone"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:623
+#: ../includes/admin/theme_car_rental_booking_admin.php:406
+#: ../includes/admin/theme_car_rental_booking_admin.php:676
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:406
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:733
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:408
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:695
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1103
+#: ../includes/post_types/accommodations.php:178
+msgid "Address"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:628
+#: ../includes/admin/theme_car_rental_booking_admin.php:410
+#: ../includes/admin/theme_car_rental_booking_admin.php:681
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:410
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:738
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:412
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:700
+msgid "Town"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:633
+#: ../includes/admin/theme_car_rental_booking_admin.php:414
+#: ../includes/admin/theme_car_rental_booking_admin.php:686
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:414
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:743
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:416
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:705
+msgid "Zip"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:638
+#: ../includes/admin/theme_car_rental_booking_admin.php:418
+#: ../includes/admin/theme_car_rental_booking_admin.php:691
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:418
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:748
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:420
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:710
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/accommodation-confirmation-form.php:39
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/car_rental-confirmation-form.php:39
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/cruise-confirmation-form.php:39
+#: ../includes/parts/tour-booking-form.php:1
+#: ../includes/parts/tour-confirmation-form.php:39
+#: ../includes/post_types/locations.php:37 ../single-location.php:1
+msgid "Country"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:643
+#: ../includes/admin/theme_car_rental_booking_admin.php:422
+#: ../includes/admin/theme_car_rental_booking_admin.php:696
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:422
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:753
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:424
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:715
+#: ../includes/parts/accommodation-confirmation-form.php:63
+#: ../includes/parts/car_rental-confirmation-form.php:67
+#: ../includes/parts/cruise-confirmation-form.php:63
+#: ../includes/parts/tour-confirmation-form.php:63
+msgid "Special requirements"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:648
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:758
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:720
+msgid "Number of adults"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:653
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:763
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:725
+msgid "Number of children"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:658
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:658
+msgid "Number of rooms"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:669
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:697
+#: ../includes/admin/theme_car_rental_booking_admin.php:707
+#: ../includes/admin/theme_cruise_schedule_admin.php:737
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:797
+#: ../includes/admin/theme_tour_schedule_admin.php:649
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:759
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/inquiry-form.php:1 ../includes/parts/review-form.php:1
+#: ../includes/parts/tour-booking-form.php:1 ../page-user-account.php:109
+#: ../page-user-account.php:123 ../page-user-account.php:137
+#: ../page-user-account.php:153
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_booking_admin.php:673
+#: ../includes/admin/theme_car_rental_booking_admin.php:711
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:801
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:763
+msgid "Update Booking"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:41
+msgid "BYT Accommodation Vacancies"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:41
+msgid "Vacancies"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:60
+msgid "<h2>BYT Accommodation vacancies</h2>"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:69
+msgid "Successfully deleted all accommodation vacancies."
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:83
+msgid "Filter by accommodation"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:102
+msgid "Filter by room type"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:115
+msgid "Filter by accommodation: "
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:118
+msgid "Filter by room type: "
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:127
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:230
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:634
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:703
+msgid "Add Vacancy"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:252
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:259
+#: ../includes/admin/theme_cruise_schedule_admin.php:294
+#: ../includes/admin/theme_tour_schedule_admin.php:271
+#: ../page-user-content-list.php:194 ../page-user-content-list.php:206
+#: ../woocommerce/order/order-details.php:198
+#: ../woocommerce/order/order-details.php:217
+msgid "N/A"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:303
+msgid "Season Name"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:304
+msgid "Accommodation Name"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:305
+#: ../includes/admin/theme_cruise_schedule_admin.php:327
+#: ../includes/admin/theme_tour_schedule_admin.php:295
+msgid "Start Date"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:306
+#: ../includes/admin/theme_cruise_schedule_admin.php:328
+#: ../includes/admin/theme_tour_schedule_admin.php:296
+msgid "End Date"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:307
+msgid "Room Type"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:308
+#: ../includes/plugins/widgets/widget-search.php:124
+#: ../includes/plugins/widgets/widget-search.php:799
+msgid "Rooms"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:309
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:686
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1032
+#: ../includes/plugins/widgets/widget-search.php:142
+#: ../includes/plugins/widgets/widget-search.php:816
+#: ../includes/post_types/car_rentals.php:56 ../single-accommodation.php:1
+msgid "Price per day"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:433
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:461
+msgid "You must select an accommodation"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:435
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:463
+msgid "You must select a room type"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:437
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:467
+msgid "You must select a from date"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:439
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:469
+msgid "You must select a to date"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:441
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:471
+msgid "You must provide a valid price per day"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:453
+msgid "Successfully inserted new vacancy!"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:465
+msgid "You must provide a valid room count"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:486
+#, php-format
+msgid "Successfully updated vacancy (id=%d)!"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:497
+msgid "Successfully deleted vacancy!"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:632
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:701
+msgid "Update Vacancy"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:643
+msgid "Season name"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:686
+msgid "(adult)"
+msgstr ""
+
+#: ../includes/admin/theme_accommodation_vacancy_admin.php:691
+msgid "Price per day (child)"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:39
+msgid "BYT Car Rental Bookings"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:86
+msgid "<h2>BYT Car Rental bookings</h2>"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:107
+#: ../includes/admin/theme_car_rental_booking_admin.php:124
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:103
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:119
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:104
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:120
+msgid "Add booking"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:210
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:205
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:207
+msgid "View"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:228
+msgid "Pick Up / Drop Off"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:229
+msgid "Car Rental Name"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:230
+msgid "Total Price"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:355
+msgid "Successfully inserted new car rental booking entry!"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:363
+msgid "Successfully updated car rental booking entry!"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:387
+msgid "View car rental booking"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:426
+#: ../includes/parts/car_rental-confirmation-form.php:43
+msgid "Car rental name"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:430
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/car_rental-item.php:45
+#: ../includes/plugins/widgets/widget-search.php:131
+#: ../includes/plugins/widgets/widget-search.php:807
+#: ../includes/post_types/car_rentals.php:120
+#: ../includes/post_types/car_rentals.php:177 ../single-car_rental.php:94
+msgid "Car type"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:434
+#: ../includes/parts/car_rental-booking-form.php:1
+msgid "Pick Up"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:438
+#: ../includes/parts/car_rental-booking-form.php:1
+msgid "Drop Off"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:454
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:438
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:440
+msgid "Created at"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:458
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:442
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:444
+msgid "&laquo; Go back"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:587
+msgid "Update Car Rental Booking Entry"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:589
+msgid "Add Car Rental Booking Entry"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:598
+#: ../includes/admin/theme_car_rental_booking_admin.php:614
+msgid "Select car rental"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:619
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1133
+#: ../includes/plugins/widgets/widget-search.php:243
+msgid "Select location"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:629
+#: ../includes/parts/car_rental-booking-form.php:1
+msgid "Select drop-off location"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:634
+msgid "From date"
+msgstr ""
+
+#: ../includes/admin/theme_car_rental_booking_admin.php:645
+msgid "To date"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:39
+msgid "BYT Cruise schedule management"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:39
+#: ../includes/admin/theme_cruise_schedule_admin.php:87
+#: ../includes/admin/theme_tour_schedule_admin.php:38
+msgid "Schedule"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:97
+msgid "<h2>BYT Cruise schedule</h2>"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:107
+msgid "Successfully deleted all cruise scheduled entries."
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:122
+msgid "Filter by cruise"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:141
+msgid "Filter by cabin type"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:153
+#: ../includes/admin/theme_tour_schedule_admin.php:137
+msgid "Filter by date: "
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:156
+msgid "Filter by cruise: "
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:159
+msgid "Filter by cabin type: "
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:167
+#: ../includes/admin/theme_cruise_schedule_admin.php:251
+#: ../includes/admin/theme_tour_schedule_admin.php:149
+#: ../includes/admin/theme_tour_schedule_admin.php:233
+msgid "Add schedule"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:231
+#: ../includes/admin/theme_tour_schedule_admin.php:213
+msgid "Showing scheduled entries for "
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:233
+#: ../includes/admin/theme_tour_schedule_admin.php:215
+msgid "Showing all scheduled entries "
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:237
+#, php-format
+msgid " for cruise \"<strong>%s</strong>\""
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:329
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:222
+msgid "Cruise Name"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:330
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:223
+msgid "Cabin Type"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:331
+msgid "Cruise Type"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:332
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:689
+#: ../includes/admin/theme_tour_schedule_admin.php:299
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:652
+msgid "Days"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:459
+#: ../includes/admin/theme_cruise_schedule_admin.php:508
+msgid "You must select an cruise"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:461
+#: ../includes/admin/theme_cruise_schedule_admin.php:510
+msgid "You must select a cabin type"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:463
+#: ../includes/admin/theme_cruise_schedule_admin.php:512
+msgid "You must provide a valid cabin count"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:465
+#: ../includes/admin/theme_cruise_schedule_admin.php:514
+#: ../includes/admin/theme_tour_schedule_admin.php:418
+#: ../includes/admin/theme_tour_schedule_admin.php:460
+msgid "You must select a schedule date"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:467
+#: ../includes/admin/theme_cruise_schedule_admin.php:516
+#: ../includes/admin/theme_tour_schedule_admin.php:422
+#: ../includes/admin/theme_tour_schedule_admin.php:464
+msgid "You must provide a duration in days"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:469
+#: ../includes/admin/theme_cruise_schedule_admin.php:518
+#: ../includes/admin/theme_tour_schedule_admin.php:424
+#: ../includes/admin/theme_tour_schedule_admin.php:466
+msgid "You must provide a valid price"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:481
+msgid "Successfully inserted new cruise schedule entry!"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:532
+msgid "Successfully updated cruise schedule entry!"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:543
+msgid "Successfully deleted cruise schedule entry!"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:591
+#: ../includes/admin/theme_cruise_schedule_admin.php:684
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:615
+msgid "Select cruise"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:610
+#: ../includes/admin/theme_cruise_schedule_admin.php:689
+msgid "Select cabin type"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:676
+#: ../includes/admin/theme_cruise_schedule_admin.php:740
+msgid "Update Cruise Schedule Entry"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:678
+#: ../includes/admin/theme_cruise_schedule_admin.php:742
+msgid "Add Cruise Schedule Entry"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:694
+msgid "Number of cabins available"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:699
+#: ../includes/admin/theme_tour_schedule_admin.php:611
+msgid "Duration (days)"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:704
+#: ../includes/admin/theme_tour_schedule_admin.php:616
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1034
+#: ../includes/plugins/widgets/widget-search.php:134
+#: ../includes/plugins/widgets/widget-search.php:137
+#: ../includes/plugins/widgets/widget-search.php:810
+#: ../includes/plugins/widgets/widget-search.php:811
+#: ../page-user-content-list.php:197
+msgid "Start date"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:715
+#: ../includes/admin/theme_tour_schedule_admin.php:627
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1035
+#: ../page-user-content-list.php:201
+msgid "End date"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:726
+#: ../includes/admin/theme_tour_schedule_admin.php:638
+msgid "per adult"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:726
+msgid "per cabin"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_admin.php:731
+#: ../includes/admin/theme_tour_schedule_admin.php:643
+#: ../single-accommodation.php:1 ../single-cruise.php:328
+#: ../single-tour.php:178
+msgid "Price per child"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:39
+msgid "BYT Cruise Bookings"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:84
+msgid "<h2>BYT Cruise bookings</h2>"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:189
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:191
+msgid "n/a"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:221
+msgid "Cruise Date"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:226
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:228
+msgid "UserId"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:360
+msgid "Successfully inserted new cruise booking entry!"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:368
+msgid "Successfully updated cruise booking entry!"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:387
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:389
+msgid "View booking"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:426
+#: ../includes/parts/cruise-confirmation-form.php:47
+#: ../includes/plugins/widgets/widget-search.php:656
+msgid "Cruise"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:430
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:702
+#: ../includes/parts/cruise-booking-form.php:1 ../single-cruise.php:305
+msgid "Cruise date"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:604
+msgid "Update Cruise Booking Entry"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:606
+msgid "Add Cruise Booking Entry"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:634
+msgid "Select cruise entry"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:644
+msgid "Select cabin type type"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:660
+msgid "Select cabin type entry"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:666
+msgid "One-off cruise"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:668
+msgid "Daily cruise"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:670
+msgid "Weekday cruise"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:672
+#, php-format
+msgid "Cruise on %s.</p>"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:678
+msgid "Select cruise schedule"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:695
+msgid "Select cruise schedule entry"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:770
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:732
+msgid "Total price for adults"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:775
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:737
+msgid "Total price for children"
+msgstr ""
+
+#: ../includes/admin/theme_cruise_schedule_booking_admin.php:782
+msgid "Total price for cabin"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:38
+msgid "BYT Tour Schedules"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:95
+msgid "<h2>BYT Tour schedule</h2>"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:105
+msgid "Successfully deleted all tour scheduled entries."
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:119
+msgid "Filter by tour"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:141
+msgid "Filter by tour: "
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:219
+#, php-format
+msgid " for tour \"<strong>%s</strong>\""
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:223
+msgid "Show all scheduled entries for all tours"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:225
+#, php-format
+msgid "Show all scheduled entries for <strong>%s</strong>"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:227
+msgid "Delete all scheduled entries"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:257
+msgid "days"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:297
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:224
+msgid "Tour Name"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:298
+msgid "Tour Type"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:301
+#: ../includes/parts/car_rental-item.php:46 ../single-car_rental.php:95
+msgid "Max people"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:416
+msgid "You must select a tour"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:420
+#: ../includes/admin/theme_tour_schedule_admin.php:462
+msgid "You must provide a max people count"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:436
+msgid "Successfully inserted new tour schedule entry!"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:458
+msgid "You must select an tour"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:480
+msgid "Successfully updated tour schedule entry!"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:491
+msgid "Successfully deleted tour schedule entry!"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:526
+#: ../includes/admin/theme_tour_schedule_admin.php:601
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:600
+msgid "Select tour"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:593
+#: ../includes/admin/theme_tour_schedule_admin.php:652
+msgid "Update Tour Schedule Entry"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:595
+#: ../includes/admin/theme_tour_schedule_admin.php:654
+msgid "Add Tour Schedule Entry"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:606
+msgid "Max number of people"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_admin.php:638
+msgid "per group"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:40
+msgid "BYT Tour Bookings"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:85
+msgid "<h2>BYT Tour bookings</h2>"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:223
+msgid "Tour Date"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:226
+msgid "People"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:362
+msgid "Successfully inserted new tour booking entry!"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:370
+msgid "Successfully updated tour booking entry!"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:428
+#: ../includes/parts/tour-confirmation-form.php:47
+#: ../includes/plugins/widgets/widget-search.php:647
+msgid "Tour"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:432
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:664
+#: ../includes/parts/tour-booking-form.php:1 ../single-tour.php:155
+msgid "Tour date"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:589
+msgid "Update Tour Booking Entry"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:591
+msgid "Add Tour Booking Entry"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:619
+msgid "Select tour entry"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:631
+msgid "One-off tour"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:633
+msgid "Daily tour"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:635
+msgid "Weekday tour"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:637
+#, php-format
+msgid "Tour on %s.</p>"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:641
+msgid "Select tour schedule"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:658
+msgid "Select tour schedule entry"
+msgstr ""
+
+#: ../includes/admin/theme_tour_schedule_booking_admin.php:744
+msgid "Total price for group"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:90
+#: ../includes/framework/includes/class-options-framework-admin.php:91
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:197
+msgid "Save Options"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:198
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:198
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:229
+msgid "Default options restored."
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:283
+msgid "Options saved."
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:66
+#: ../includes/framework/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:68
+#: ../includes/framework/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/inquiry-form.php:1
+#: ../includes/parts/tour-booking-form.php:1 ../page-contact.php:49
+msgid "Invalid captcha, please try again!"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please enter your first name"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please enter your last name"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please enter valid email address"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/inquiry-form.php:1
+msgid "Please enter your phone number"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please provide a confirm email"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please enter the same email as above"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please enter your address"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please enter your city"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please enter your zip code"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+msgid "Please select booking dates"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please enter your country"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Booking details"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1024
+#: ../includes/theme_meta_boxes.php:26 ../includes/theme_post_types.php:43
+#: ../page-user-account.php:190 ../page-user-content-list.php:193
+#: ../single-accommodation.php:1
+msgid "Room type"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../single-accommodation.php:1
+msgid "Check-in"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+msgid "Check-out"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1 ../woocommerce/cart/cart.php:30
+#: ../woocommerce/checkout/review-order.php:18
+#: ../woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Submit booking"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/accommodation-confirmation-form.php:19
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/car_rental-confirmation-form.php:19
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/cruise-confirmation-form.php:19
+#: ../includes/parts/tour-booking-form.php:1
+#: ../includes/parts/tour-confirmation-form.php:19
+#: ../page-user-account.php:130
+msgid "Email address"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Confirm email address"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "You'll receive a confirmation email"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Street Address and Number"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Town / City"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "ZIP Code"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Special requirements: <span>(Not Guaranteed)</span>"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Please write your requests in English."
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../includes/parts/cruise-booking-form.php:1
+#: ../includes/parts/inquiry-form.php:1
+#: ../includes/parts/register-lightbox.php:34
+#: ../includes/parts/tour-booking-form.php:1 ../page-contact.php:122
+#: ../page-user-register.php:266
+#, php-format
+msgid "How much is %d + %d"
+msgstr ""
+
+#: ../includes/parts/accommodation-booking-form.php:1
+msgid "Go Back"
+msgstr ""
+
+#: ../includes/parts/accommodation-confirmation-form.php:4
+#: ../includes/parts/car_rental-confirmation-form.php:4
+#: ../includes/parts/cruise-confirmation-form.php:4
+#: ../includes/parts/tour-confirmation-form.php:4
+msgid "Confirmation"
+msgstr ""
+
+#: ../includes/parts/accommodation-confirmation-form.php:6
+#: ../includes/parts/car_rental-confirmation-form.php:6
+msgid ""
+"Thank you. We will get back you with regards your reservation within 24 "
+"hours."
+msgstr ""
+
+#: ../includes/parts/accommodation-confirmation-form.php:8
+#: ../includes/parts/car_rental-confirmation-form.php:8
+#: ../includes/parts/cruise-confirmation-form.php:8
+#: ../includes/parts/tour-confirmation-form.php:8
+msgid "Traveller info"
+msgstr ""
+
+#: ../includes/parts/accommodation-confirmation-form.php:27
+#: ../includes/parts/car_rental-confirmation-form.php:27
+#: ../includes/parts/cruise-confirmation-form.php:27
+#: ../includes/parts/tour-confirmation-form.php:27
+msgid "Street"
+msgstr ""
+
+#: ../includes/parts/accommodation-confirmation-form.php:31
+#: ../includes/parts/car_rental-confirmation-form.php:31
+#: ../includes/parts/cruise-confirmation-form.php:31
+#: ../includes/parts/tour-confirmation-form.php:31
+msgid "Town/City"
+msgstr ""
+
+#: ../includes/parts/accommodation-confirmation-form.php:35
+#: ../includes/parts/car_rental-confirmation-form.php:35
+#: ../includes/parts/cruise-confirmation-form.php:35
+#: ../includes/parts/tour-confirmation-form.php:35
+msgid "Zip code"
+msgstr ""
+
+#: ../includes/parts/accommodation-confirmation-form.php:68
+#, php-format
+msgid "<strong>We wish you a pleasant stay</strong><br /><i>your %s team</i>"
+msgstr ""
+
+#: ../includes/parts/accommodation-item.php:27
+#: ../includes/parts/cruise-item.php:25 ../includes/parts/post-item.php:26
+#: ../includes/parts/tour-item.php:25
+msgid "More info"
+msgstr ""
+
+#: ../includes/parts/accommodation-item.php:40
+#: ../includes/parts/accommodation-item.php:91
+#: ../includes/parts/car_rental-item.php:67
+#: ../includes/parts/cruise-item.php:82
+#: ../includes/parts/location-item.php:112 ../includes/parts/post-item.php:37
+#: ../includes/parts/tour-item.php:88 ../page-user-content-list.php:264
+msgid "Pending"
+msgstr ""
+
+#: ../includes/parts/accommodation-item.php:61
+msgid "Price per night from "
+msgstr ""
+
+#: ../includes/parts/accommodation-item.php:79
+#: ../includes/parts/car_rental-item.php:55
+#: ../includes/parts/cruise-item.php:70 ../includes/parts/tour-item.php:76
+#: ../single-car_rental.php:103
+msgid "Book now"
+msgstr ""
+
+#: ../includes/parts/accommodation-item.php:110
+#, php-format
+msgid "From %s per night"
+msgstr ""
+
+#: ../includes/parts/car_rental-booking-form.php:1
+msgid "Please enter phone number"
+msgstr ""
+
+#: ../includes/parts/car_rental-booking-form.php:1
+msgid "Please select a date from"
+msgstr ""
+
+#: ../includes/parts/car_rental-booking-form.php:1
+msgid "Please select a date to"
+msgstr ""
+
+#: ../includes/parts/car_rental-booking-form.php:1
+msgid "Please select a drop-off location!"
+msgstr ""
+
+#: ../includes/parts/car_rental-booking-form.php:1
+msgid "Submit car rental booking"
+msgstr ""
+
+#: ../includes/parts/car_rental-booking-form.php:1
+msgid "Car name"
+msgstr ""
+
+#: ../includes/parts/car_rental-booking-form.php:1
+#: ../single-accommodation.php:1 ../single-cruise.php:181
+msgid "Select dates"
+msgstr ""
+
+#: ../includes/parts/car_rental-confirmation-form.php:55
+msgid "Pick up"
+msgstr ""
+
+#: ../includes/parts/car_rental-confirmation-form.php:59
+msgid "Drop off"
+msgstr ""
+
+#: ../includes/parts/car_rental-confirmation-form.php:72
+#, php-format
+msgid "<strong>We wish you a pleasant trip</strong><br /><i>your %s team</i>"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:32
+msgid "Price per day "
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:47 ../single-car_rental.php:96
+msgid "Door count"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:48 ../single-car_rental.php:97
+msgid "Minimum driver age"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:49 ../single-car_rental.php:98
+msgid "Transmission"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:49 ../single-car_rental.php:98
+msgid "Manual"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:49 ../single-car_rental.php:98
+msgid "Automatic"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:50 ../single-car_rental.php:99
+msgid "Air-conditioned?"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:50
+#: ../includes/parts/car_rental-item.php:51 ../single-car_rental.php:99
+#: ../single-car_rental.php:100
+msgid "Yes"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:50
+#: ../includes/parts/car_rental-item.php:51
+#: ../includes/post_types/cruises.php:472
+#: ../includes/post_types/cruises.php:506
+#: ../includes/post_types/tours.php:1171 ../includes/post_types/tours.php:1205
+#: ../single-car_rental.php:99 ../single-car_rental.php:100
+msgid "No"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:51 ../single-car_rental.php:100
+msgid "Unlimited mileage?"
+msgstr ""
+
+#: ../includes/parts/car_rental-item.php:80
+#, php-format
+msgid "From %s per day"
+msgstr ""
+
+#: ../includes/parts/cruise-booking-form.php:1 ../single-tour.php:53
+msgid "Please select a valid start date!"
+msgstr ""
+
+#: ../includes/parts/cruise-booking-form.php:1
+msgid "Submit cruise booking"
+msgstr ""
+
+#: ../includes/parts/cruise-booking-form.php:1
+msgid "Cruise name"
+msgstr ""
+
+#: ../includes/parts/cruise-confirmation-form.php:6
+msgid ""
+"Thank you. We will get back you with regards your cruise booking within 24 "
+"hours."
+msgstr ""
+
+#: ../includes/parts/cruise-confirmation-form.php:43
+msgid "Cruise start date"
+msgstr ""
+
+#: ../includes/parts/cruise-confirmation-form.php:68
+#, php-format
+msgid "<strong>We wish you a pleasant cruise</strong><br /><i>your %s team</i>"
+msgstr ""
+
+#: ../includes/parts/cruise-item.php:52 ../includes/parts/tour-item.php:58
+msgid "Price per person from "
+msgstr ""
+
+#: ../includes/parts/cruise-item.php:54
+msgid "Price per cabin from "
+msgstr ""
+
+#: ../includes/parts/cruise-item.php:96 ../includes/parts/tour-item.php:102
+#, php-format
+msgid "From %s per person"
+msgstr ""
+
+#: ../includes/parts/cruise-item.php:98
+#, php-format
+msgid "From %s per cabin"
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+#, php-format
+msgid "Use the form below to contact accommodation %s directly."
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+#, php-format
+msgid "Use the form below to contact tour %s directly."
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+#, php-format
+msgid "Use the form below to contact car rental %s directly."
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+#, php-format
+msgid "Use the form below to contact cruise %s directly."
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+msgid "Please enter your message"
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+msgid "Please enter your full name"
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+msgid "Please enter your email address"
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+msgid "Please complete all fields."
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1 ../page-contact.php:109
+msgid "Your name"
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+msgid "Your email"
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+msgid "Your phone"
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+msgid "What would you like to inquire about?"
+msgstr ""
+
+#: ../includes/parts/inquiry-form.php:1
+msgid "Submit inquiry"
+msgstr ""
+
+#: ../includes/parts/location-item.php:59
+#: ../includes/parts/location-item.php:83
+msgid "View all"
+msgstr ""
+
+#: ../includes/parts/location-item.php:67
+#: ../includes/theme_of_default_fields.php:143
+msgid "Hotels"
+msgstr ""
+
+#: ../includes/parts/location-item.php:69
+#: ../includes/post_types/accommodations.php:245
+msgid "Self-catered"
+msgstr ""
+
+#: ../includes/parts/location-item.php:72 ../includes/post_types/tours.php:285
+#: ../includes/theme_of_default_fields.php:145
+#: ../includes/theme_woocommerce.php:36 ../options.php:560
+msgid "Tours"
+msgstr ""
+
+#: ../includes/parts/location-item.php:75
+#: ../includes/post_types/cruises.php:368
+#: ../includes/theme_of_default_fields.php:146
+#: ../includes/theme_woocommerce.php:42 ../options.php:638
+msgid "Cruises"
+msgstr ""
+
+#: ../includes/parts/location-item.php:78
+#: ../includes/post_types/car_rentals.php:325
+#: ../includes/theme_of_default_fields.php:147
+#: ../includes/theme_woocommerce.php:39
+msgid "Car rentals"
+msgstr ""
+
+#: ../includes/parts/location-item.php:84
+msgid "from"
+msgstr ""
+
+#: ../includes/parts/login-lightbox.php:13
+msgid "Log in"
+msgstr ""
+
+#: ../includes/parts/login-lightbox.php:15
+#: ../includes/parts/register-lightbox.php:22 ../page-user-login.php:82
+#: ../page-user-register.php:247
+msgid "Username"
+msgstr ""
+
+#: ../includes/parts/login-lightbox.php:19 ../includes/theme_actions.php:43
+#: ../page-user-account.php:144 ../page-user-login.php:86
+msgid "Password"
+msgstr ""
+
+#: ../includes/parts/login-lightbox.php:24
+msgid "Remember me next time"
+msgstr ""
+
+#: ../includes/parts/login-lightbox.php:26
+msgid "Forgot your password?"
+msgstr ""
+
+#: ../includes/parts/login-lightbox.php:27 ../page-user-forgot-pass.php:120
+#: ../page-user-login.php:74
+msgid "Don't have an account yet?"
+msgstr ""
+
+#: ../includes/parts/login-lightbox.php:27 ../page-user-forgot-pass.php:120
+#: ../page-user-login.php:74
+msgid "Sign up"
+msgstr ""
+
+#: ../includes/parts/register-lightbox.php:46 ../page-user-register.php:278
+#, php-format
+msgid "I agree to the <a href=\"%s\">terms &amp; conditions</a>."
+msgstr ""
+
+#: ../includes/parts/register-lightbox.php:54
+msgid "Create account"
+msgstr ""
+
+#: ../includes/parts/review-form.php:1
+msgid "Please enter your likes"
+msgstr ""
+
+#: ../includes/parts/review-form.php:1
+msgid "Please enter your dislikes"
+msgstr ""
+
+#: ../includes/parts/review-form.php:1
+#, php-format
+msgid "We would like to know your opinion about %s"
+msgstr ""
+
+#: ../includes/parts/review-form.php:1
+msgid "Please score the following:"
+msgstr ""
+
+#: ../includes/parts/review-form.php:1
+msgid "Element"
+msgstr ""
+
+#: ../includes/parts/review-form.php:1
+#, php-format
+msgid "What did you like about the %s?"
+msgstr ""
+
+#: ../includes/parts/review-form.php:1
+#, php-format
+msgid "What did you not like about the %s?"
+msgstr ""
+
+#: ../includes/parts/review-form.php:1
+msgid "Submit review"
+msgstr ""
+
+#: ../includes/parts/review-item.php:11
+#, php-format
+msgid ""
+"Guest reviews are written by our customers <strong>after their stay</strong> "
+"at %s."
+msgstr ""
+
+#: ../includes/parts/review-item.php:13
+#, php-format
+msgid ""
+"Guest reviews are written by our customers <strong>after their tour</strong> "
+"of %s."
+msgstr ""
+
+#: ../includes/parts/review-item.php:15
+#, php-format
+msgid ""
+"Guest reviews are written by our customers <strong>after their voyage</"
+"strong> on %s."
+msgstr ""
+
+#: ../includes/parts/review-item.php:21
+msgid "Accommodation review scores and score breakdown"
+msgstr ""
+
+#: ../includes/parts/review-item.php:23
+msgid "Tour review scores and score breakdown"
+msgstr ""
+
+#: ../includes/parts/review-item.php:25
+msgid "Cruise review scores and score breakdown"
+msgstr ""
+
+#: ../includes/parts/review-item.php:27
+msgid "Car rental review scores and score breakdown"
+msgstr ""
+
+#: ../includes/parts/review-item.php:38
+#, php-format
+msgid "Based on %d reviews"
+msgstr ""
+
+#: ../includes/parts/review-item.php:59
+msgid "Guest reviews"
+msgstr ""
+
+#: ../includes/parts/review-item.php:83
+#, php-format
+msgid "We are sorry, there are no reviews yet for this %s."
+msgstr ""
+
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Submit tour booking"
+msgstr ""
+
+#: ../includes/parts/tour-booking-form.php:1
+msgid "Tour name"
+msgstr ""
+
+#: ../includes/parts/tour-confirmation-form.php:6
+msgid ""
+"Thank you. We will get back you with regards your tour booking within 24 "
+"hours."
+msgstr ""
+
+#: ../includes/parts/tour-confirmation-form.php:43
+msgid "Tour start date"
+msgstr ""
+
+#: ../includes/parts/tour-confirmation-form.php:68
+#, php-format
+msgid "<strong>We wish you a pleasant tour</strong><br /><i>your %s team</i>"
+msgstr ""
+
+#: ../includes/parts/tour-item.php:60
+msgid "Price per group from "
+msgstr ""
+
+#: ../includes/parts/tour-item.php:104
+#, php-format
+msgid "From %s per group"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:243
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1281
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1285
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1290
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1293
+msgid "Required"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1293
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1296
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1299
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1481
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1497
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1498
+msgid "Source"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1499
+msgid "Type"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1500
+msgid "Status"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1518
+msgid "Install"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1519
+msgid "Activate"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2090
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2091
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2092
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2093
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2094
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2095
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2106
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2229
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2230
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2234
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2235
+#: ../includes/plugins/class-tgm-plugin-activation.php:2242
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2235
+#: ../includes/plugins/class-tgm-plugin-activation.php:2242
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2236
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2237
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2241
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2242
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2243
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2244
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:230
+#: ../includes/plugins/frontend-submit/frontend-submit.php:231
+msgid "Unnamed"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:635
+#, php-format
+msgid "%s Your file was successfully uploaded!"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:639
+#, php-format
+msgid "%s Your accommodation was successfully submitted!"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:643
+#, php-format
+msgid "%s Your room type was successfully submitted!"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:647
+#, php-format
+msgid "%s Your vacancy was successfully submitted!"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:651
+#, php-format
+msgid "%s There was an error with your submission"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:658
+msgid ""
+"You are currently editing your selected accommodation. Click \"Submit\" to "
+"save your changes."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:662
+msgid ""
+"You are currently editing your selected room type. Click \"Submit\" to save "
+"your changes."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:666
+msgid ""
+"You are currently editing your selected vacancy. Click \"Submit\" to save "
+"your changes."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:708
+msgid "Security check failed!"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:711
+msgid "This kind of file is not allowed. Please, try selecting another file."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:715
+msgid "The content you are trying to post is invalid."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:718
+msgid "Couldn't upload the file"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:721
+msgid "Couldn't create the post"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:724
+msgid "User does not own accommodation specified"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:727
+msgid "Could not find accommodation object"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:730
+msgid "Accommodation id was not specified"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1031
+msgid "Number of available rooms"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1033
+msgid "Price per day child"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1048
+#: ../includes/post_types/accommodations.php:66
+#: ../includes/post_types/cabin_types.php:18
+#: ../includes/post_types/room_types.php:18
+msgid "Max adult count"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1049
+#: ../includes/post_types/accommodations.php:75
+#: ../includes/post_types/cabin_types.php:27
+#: ../includes/post_types/room_types.php:27
+msgid "Max child count"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1050
+#: ../includes/post_types/cabin_types.php:36
+#: ../includes/post_types/room_types.php:36
+msgid "Bed size"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1051
+#: ../includes/post_types/room_types.php:42
+msgid "Room size"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1052
+#: ../includes/post_types/room_types.php:48
+msgid "Room meta information"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1062
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1131
+#: ../includes/post_types/accommodations.php:135
+#: ../includes/post_types/cabin_types.php:54
+#: ../includes/post_types/cruises.php:96
+#: ../includes/post_types/facilities.php:51
+#: ../includes/post_types/room_types.php:54
+#: ../includes/theme_of_default_fields.php:71 ../single-accommodation.php:1
+#: ../single-cruise.php:241
+msgid "Facilities"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1072
+msgid ""
+"<div>Is self catered?<br /><small>Otherwise accommodation is treated as a "
+"hotel-type accommodation.</small></div>"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1073
+msgid ""
+"<div>Is for reservation only<br /><small>Meaning booking does not proceed to "
+"payment form?</small></div>"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1074
+msgid ""
+"<div>Is priced per person?<br /><small>Otherwise it's priced on a per-room "
+"basis</small></div>"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1087
+#: ../includes/post_types/room_types.php:94
+#: ../includes/post_types/room_types.php:95
+msgid "Room types"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1090
+msgid "Minimum days stay"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1093
+#: ../includes/post_types/accommodations.php:97
+#: ../includes/post_types/cruises.php:81
+msgid "Count children stay free"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1100
+#: ../includes/post_types/accommodations.php:112 ../single-accommodation.php:1
+msgid "Check-in time"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1101
+#: ../includes/post_types/accommodations.php:119 ../single-accommodation.php:1
+msgid "Check-out time"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1104
+#: ../includes/post_types/accommodations.php:184
+msgid "Website address"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1105
+msgid "Contact email addresses (separate multiple addresses with semi-colon ;)"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1106
+#: ../includes/post_types/accommodations.php:202
+msgid "Latitude coordinates"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1107
+#: ../includes/post_types/accommodations.php:208
+msgid "Longitude coordinates"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1108
+#: ../includes/post_types/accommodations.php:190
+#: ../includes/post_types/cruises.php:132 ../includes/post_types/tours.php:81
+msgid "Availability extra text"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1111
+#: ../includes/post_types/accommodations.php:126
+msgid "Star count"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1116
+msgid "Select accommodation type"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1121
+#: ../includes/plugins/widgets/widget-search.php:125
+#: ../includes/plugins/widgets/widget-search.php:801
+#: ../includes/post_types/accommodations.php:147
+msgid "Accommodation type"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1142
+#: ../includes/plugins/widgets/widget-search.php:144
+#: ../includes/post_types/accommodations.php:153
+#: ../includes/post_types/accommodations.php:276
+#: ../includes/post_types/car_rentals.php:31
+#: ../includes/post_types/car_rentals.php:183
+#: ../includes/post_types/cruises.php:194
+#: ../includes/post_types/locations.php:15
+#: ../includes/post_types/reviews.php:39 ../includes/post_types/tours.php:32
+#: ../includes/post_types/tours.php:137
+#: ../includes/theme_of_default_fields.php:70
+#: ../includes/theme_of_default_fields.php:106 ../single-car_rental.php:93
+msgid "Location"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1144
+#: ../includes/post_types/accommodations.php:160
+#: ../includes/post_types/car_rentals.php:38
+#: ../includes/post_types/cruises.php:114
+#: ../includes/post_types/locations.php:43 ../includes/post_types/tours.php:39
+msgid "Gallery images"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1214
+msgid "Title"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1217
+#: ../includes/theme_of_default_fields.php:72
+#: ../includes/theme_of_default_fields.php:104
+msgid "Description"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1220
+msgid "Featured image"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1227
+msgid "Submit"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:30
+#: ../includes/plugins/widgets/widget-accommodation-list.php:36
+msgid "BookYourTravel: Accommodation List"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:59
+#: ../includes/plugins/widgets/widget-accommodation-list.php:167
+msgid "Explore our latest accommodations"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:181
+#: ../includes/plugins/widgets/widget-address.php:110
+#: ../includes/plugins/widgets/widget-car_rental-list.php:182
+#: ../includes/plugins/widgets/widget-cruise-list.php:182
+#: ../includes/plugins/widgets/widget-home-feature.php:96
+#: ../includes/plugins/widgets/widget-location-list.php:159
+#: ../includes/plugins/widgets/widget-post-list.php:166
+#: ../includes/plugins/widgets/widget-search.php:842
+#: ../includes/plugins/widgets/widget-social.php:143
+#: ../includes/plugins/widgets/widget-tour-list.php:182
+msgid "Title:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:186
+msgid "How many accommodations do you want to display?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:195
+msgid "What do you want to sort the accommodations by?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:197
+#: ../includes/plugins/widgets/widget-car_rental-list.php:198
+#: ../includes/plugins/widgets/widget-cruise-list.php:198
+#: ../includes/plugins/widgets/widget-location-list.php:175
+#: ../includes/plugins/widgets/widget-post-list.php:200
+#: ../includes/plugins/widgets/widget-tour-list.php:198
+msgid "Post Title"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:198
+#: ../includes/plugins/widgets/widget-car_rental-list.php:199
+#: ../includes/plugins/widgets/widget-cruise-list.php:199
+#: ../includes/plugins/widgets/widget-location-list.php:176
+#: ../includes/plugins/widgets/widget-post-list.php:201
+#: ../includes/plugins/widgets/widget-tour-list.php:199
+msgid "Post ID"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:199
+#: ../includes/plugins/widgets/widget-car_rental-list.php:200
+#: ../includes/plugins/widgets/widget-cruise-list.php:200
+#: ../includes/plugins/widgets/widget-location-list.php:177
+#: ../includes/plugins/widgets/widget-post-list.php:202
+#: ../includes/plugins/widgets/widget-tour-list.php:200
+#: ../includes/post_types/accommodations.php:252
+#: ../includes/post_types/car_rentals.php:172
+#: ../includes/post_types/cruises.php:177 ../includes/post_types/tours.php:126
+msgid "Random"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:200
+#: ../includes/plugins/widgets/widget-car_rental-list.php:201
+#: ../includes/plugins/widgets/widget-cruise-list.php:201
+#: ../includes/plugins/widgets/widget-location-list.php:178
+#: ../includes/plugins/widgets/widget-post-list.php:203
+#: ../includes/plugins/widgets/widget-tour-list.php:201
+msgid "Publish Date"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:201
+#: ../includes/plugins/widgets/widget-car_rental-list.php:202
+#: ../includes/plugins/widgets/widget-cruise-list.php:202
+#: ../includes/plugins/widgets/widget-location-list.php:179
+#: ../includes/plugins/widgets/widget-post-list.php:204
+#: ../includes/plugins/widgets/widget-tour-list.php:202
+msgid "Comment Count"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:206
+msgid "Sort accommodations in descending order?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:211
+#: ../includes/plugins/widgets/widget-car_rental-list.php:212
+#: ../includes/plugins/widgets/widget-cruise-list.php:212
+#: ../includes/plugins/widgets/widget-location-list.php:189
+#: ../includes/plugins/widgets/widget-post-list.php:214
+#: ../includes/plugins/widgets/widget-tour-list.php:212
+msgid "Display mode?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:213
+#: ../includes/plugins/widgets/widget-car_rental-list.php:214
+#: ../includes/plugins/widgets/widget-cruise-list.php:214
+#: ../includes/plugins/widgets/widget-location-list.php:191
+#: ../includes/plugins/widgets/widget-post-list.php:216
+#: ../includes/plugins/widgets/widget-tour-list.php:214
+msgid "Small (usually sidebar)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:214
+#: ../includes/plugins/widgets/widget-car_rental-list.php:215
+#: ../includes/plugins/widgets/widget-cruise-list.php:215
+#: ../includes/plugins/widgets/widget-location-list.php:192
+#: ../includes/plugins/widgets/widget-post-list.php:217
+#: ../includes/plugins/widgets/widget-tour-list.php:215
+msgid "Card (usually in grid view)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:219
+msgid "Show only featured accommodations?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:224
+msgid "Accommodation type (leave blank to ignore)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:242
+msgid "Accommodation tag (leave blank to ignore)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-accommodation-list.php:260
+msgid "How many accommodations do you want to display per row?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-address.php:29
+#: ../includes/plugins/widgets/widget-address.php:35
+msgid "BookYourTravel: Address Widget"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-address.php:64
+msgid "24/7 customer support"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-address.php:115
+msgid "Company name:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-address.php:120
+msgid "Company address:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-address.php:125
+msgid "Company phone:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-address.php:130
+msgid "Company email:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-car_rental-list.php:30
+#: ../includes/plugins/widgets/widget-car_rental-list.php:36
+msgid "BookYourTravel: Car rental List"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-car_rental-list.php:59
+#: ../includes/plugins/widgets/widget-car_rental-list.php:168
+msgid "Explore our latest car rentals"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-car_rental-list.php:187
+msgid "How many car_rentals do you want to display?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-car_rental-list.php:196
+msgid "What do you want to sort the car_rentals by?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-car_rental-list.php:207
+msgid "Sort car_rentals in descending order?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-car_rental-list.php:220
+msgid "Show only featured car_rentals?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-car_rental-list.php:225
+msgid "Car type (leave blank to ignore)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-car_rental-list.php:243
+msgid "Car rental tag (leave blank to ignore)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-car_rental-list.php:261
+msgid "How many car_rentals do you want to display per row?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-cruise-list.php:30
+#: ../includes/plugins/widgets/widget-cruise-list.php:36
+msgid "BookYourTravel: Cruise List"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-cruise-list.php:59
+#: ../includes/plugins/widgets/widget-cruise-list.php:168
+msgid "Explore our latest cruises"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-cruise-list.php:187
+msgid "How many cruises do you want to display?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-cruise-list.php:196
+msgid "What do you want to sort the cruises by?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-cruise-list.php:207
+msgid "Sort cruises in descending order?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-cruise-list.php:220
+msgid "Show only featured cruises?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-cruise-list.php:225
+msgid "Cruise type (leave blank to ignore)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-cruise-list.php:243
+msgid "Cruise tag (leave blank to ignore)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-cruise-list.php:261
+msgid "How many cruises do you want to display per row?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-feature.php:29
+#: ../includes/plugins/widgets/widget-home-feature.php:35
+msgid "BookYourTravel: Home Feature Widget"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-feature.php:89
+msgid "Handpicked Accommodations"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-feature.php:90
+msgid ""
+"All Book Your Travel Accommodations fulfil strict selection criteria. Each "
+"accommodation is chosen individually and inclusion cannot be bought."
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-feature.php:101
+msgid "Feature text:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-location-list.php:27
+#: ../includes/plugins/widgets/widget-location-list.php:33
+msgid "BookYourTravel: Location List"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-location-list.php:56
+#: ../includes/plugins/widgets/widget-location-list.php:147
+msgid "Top destinations around the world"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-location-list.php:164
+msgid "How many locations do you want to display?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-location-list.php:173
+msgid "What do you want to sort the locations by?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-location-list.php:184
+msgid "Sort locations in descending order?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-location-list.php:197
+msgid "Show only featured locations?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-location-list.php:202
+msgid "How many locations do you want to display per row?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:27
+#: ../includes/plugins/widgets/widget-post-list.php:33
+msgid "BookYourTravel: Post List"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:56
+#: ../includes/plugins/widgets/widget-post-list.php:154
+msgid "Explore our latest offers"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:189
+msgid "How many posts do you want to display?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:198
+msgid "What do you want to sort the posts by?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:209
+msgid "Sort posts in descending order?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:222
+msgid "How many posts do you want to display per row?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:44
+#: ../includes/plugins/widgets/widget-search.php:50
+msgid "BookYourTravel: Search"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:100
+#: ../includes/plugins/widgets/widget-search.php:792
+msgid "Refine search results"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:117
+#: ../includes/plugins/widgets/widget-search.php:794
+msgid "What?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:118
+#: ../includes/plugins/widgets/widget-search.php:795
+msgid "When?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:119
+#: ../includes/plugins/widgets/widget-search.php:796
+msgid "Where?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:121
+#: ../includes/plugins/widgets/widget-search.php:797
+#: ../page-user-account.php:195
+msgid "Check-in date"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:122
+#: ../includes/plugins/widgets/widget-search.php:798
+#: ../page-user-account.php:199
+msgid "Check-out date"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:126
+#: ../includes/plugins/widgets/widget-search.php:802
+msgid "Star rating"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:127
+#: ../includes/plugins/widgets/widget-search.php:803
+msgid "User rating"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:129
+#: ../includes/plugins/widgets/widget-search.php:805
+msgid "Pick-up date"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:130
+#: ../includes/plugins/widgets/widget-search.php:806
+msgid "Drop-off date"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:133
+#: ../includes/plugins/widgets/widget-search.php:808
+#: ../includes/post_types/tours.php:63 ../includes/post_types/tours.php:131
+msgid "Tour type"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:136
+#: ../includes/plugins/widgets/widget-search.php:812
+#: ../includes/post_types/cruises.php:102
+#: ../includes/post_types/cruises.php:182
+msgid "Cruise type"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:138
+#: ../includes/plugins/widgets/widget-search.php:813
+msgid "Cabins"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:140
+#: ../includes/plugins/widgets/widget-search.php:814
+msgid "Price per person"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:141
+#: ../includes/plugins/widgets/widget-search.php:815
+msgid "Price per night"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:146
+#: ../includes/plugins/widgets/widget-search.php:817
+msgid "Search again"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:536
+#, php-format
+msgid "%d or more"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:620
+msgid "Hotel"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:629
+msgid "Self Catering"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:638
+msgid "Rent a Car"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:793
+msgid "What search fields do you want enabled?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:800
+msgid "Your destination"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:804
+msgid "Pick up from"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:809
+msgid "Tour location"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:830
+msgid "Search location"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:847
+msgid "What general search filters do you want enabled?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:852
+msgid "Show \"What\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:857
+msgid "Show \"Where\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:862
+msgid "Show \"When\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:867
+msgid "Show \"Price\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:873
+msgid "Show \"Rating\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:878
+msgid "General field labels"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:880
+msgid "What label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:885
+msgid "When label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:890
+msgid "Where label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:895
+msgid "Location label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:900
+msgid "Price per person label"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:905
+msgid "Price per night label"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:910
+msgid "Price per day label"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:916
+msgid "User rating label"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:927
+msgid "For accommodations"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:932
+msgid "Make hotels searchable?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:937
+msgid "Make self-catered searchable?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:942
+msgid "Show \"Accommodation type\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:947
+msgid "Show \"Stars\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:952
+msgid "Show \"Rooms\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:956
+msgid "Accommodation date from label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:961
+msgid "Accommodation date to label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:966
+msgid "Accommodation location label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:971
+msgid "Rooms label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:976
+msgid "Accommodation type label"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:981
+msgid "Star rating label"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:992
+msgid "For tours"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:997
+msgid "Make tours searchable?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1002
+msgid "Show \"Tour type\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1006
+msgid "Tour date from label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1011
+msgid "Tour type label"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1016
+msgid "Tour location label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1027
+msgid "For car rentals"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1032
+msgid "Make car rentals searchable?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1037
+msgid "Show \"Car type\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1041
+msgid "Car rental date from label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1046
+msgid "Car rental date to label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1051
+msgid "Car rental location label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1056
+msgid "Car type label"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1067
+msgid "For cruises"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1072
+msgid "Make cruises searchable?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1077
+msgid "Show \"Cruise type\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1082
+msgid "Show \"Cabin count\" filter?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1086
+msgid "Cruise date from label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1091
+msgid "Cabins label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1096
+msgid "Cruise type label:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:1103
+msgid "Search submit button text"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:29
+#: ../includes/plugins/widgets/widget-social.php:35
+msgid "BookYourTravel: Social Widget"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:71
+msgid "Follow us"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:148
+msgid "Facebook ID:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:153
+msgid "Twitter ID:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:158
+msgid "Youtube url:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:163
+msgid "Rss feed:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:168
+msgid "LinkedIn url:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:173
+msgid "GPlus url:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:178
+msgid "Vimeo profile:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:183
+msgid "Pinterest url:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-tour-list.php:30
+#: ../includes/plugins/widgets/widget-tour-list.php:36
+msgid "BookYourTravel: Tour List"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-tour-list.php:59
+#: ../includes/plugins/widgets/widget-tour-list.php:168
+msgid "Explore our latest tours"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-tour-list.php:187
+msgid "How many tours do you want to display?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-tour-list.php:196
+msgid "What do you want to sort the tours by?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-tour-list.php:207
+msgid "Sort tours in descending order?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-tour-list.php:220
+msgid "Show only featured tours?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-tour-list.php:225
+msgid "Tour type (leave blank to ignore)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-tour-list.php:243
+msgid "Tour tag (leave blank to ignore)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-tour-list.php:261
+msgid "How many tours do you want to display per row?"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:32 ../single-accommodation.php:1
+msgid "Flexible"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:45
+#: ../includes/post_types/car_rentals.php:25
+#: ../includes/post_types/cruises.php:55
+#: ../includes/post_types/locations.php:25 ../includes/post_types/tours.php:20
+msgid "Is Featured"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:46
+#: ../includes/post_types/car_rentals.php:26
+#: ../includes/post_types/cruises.php:56
+#: ../includes/post_types/locations.php:26 ../includes/post_types/tours.php:21
+msgid "Show in lists where only featured items are shown."
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:51
+msgid "Is Self Catered"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:52
+msgid ""
+"Is the accommodation self-catered or does it provide hotel-style catering?"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:57
+msgid "Min days stay"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:58
+msgid "What is the minimum number of days accommodation can be booked for?"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:67
+msgid "How many adults are allowed in the accommodation?"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:76
+msgid "How many children are allowed in the accommodation?"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:84
+msgid "Enabled room types"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:91
+#: ../includes/post_types/cruises.php:75
+msgid "Price per person?"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:92
+msgid ""
+"Is price calculated per person (adult, child)? If not then calculations are "
+"done per room / per apartment."
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:98
+#: ../includes/post_types/cruises.php:82
+msgid "How many kids stay free before we charge a fee?"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:106
+#: ../includes/post_types/car_rentals.php:132
+#: ../includes/post_types/cruises.php:90 ../includes/post_types/tours.php:75
+msgid "Is for reservation only?"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:107
+msgid ""
+"If this option is checked, then this particular accommodation will not be "
+"processed via WooCommerce even if WooCommerce is in use."
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:141
+#: ../includes/post_types/cruises.php:108 ../includes/post_types/tours.php:69
+msgid "Tags"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:171
+#: ../includes/post_types/car_rentals.php:49
+#: ../includes/post_types/cruises.php:125
+#: ../includes/post_types/locations.php:54 ../includes/post_types/tours.php:50
+msgid "Image"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:191
+#: ../includes/post_types/cruises.php:133 ../includes/post_types/tours.php:82
+msgid "Extra text shown on availability tab above the book now area."
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:196
+#: ../includes/post_types/car_rentals.php:62
+#: ../includes/post_types/cruises.php:138 ../includes/post_types/tours.php:87
+msgid "Contact email addresses"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:197
+#: ../includes/post_types/car_rentals.php:63
+#: ../includes/post_types/cruises.php:139 ../includes/post_types/tours.php:88
+msgid "Contact email addresses, separate each address with a semi-colon ;"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:203
+msgid "Latitude coordinates for use with google map (leave blank to not use)"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:209
+msgid "Longitude coordinates for use with google map (leave blank to not use)"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:244
+msgid "Any"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:246
+msgid "Hotel-style"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:249
+msgid "Accommodation title"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:250
+msgid "Accommodation ID"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:251
+#: ../includes/post_types/car_rentals.php:171
+#: ../includes/post_types/cruises.php:176 ../includes/post_types/tours.php:125
+msgid "Publish date"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:253
+#: ../includes/post_types/car_rentals.php:173
+#: ../includes/post_types/cruises.php:178 ../includes/post_types/tours.php:127
+msgid "Comment count"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:257
+msgid "Catering type"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:264
+msgid "Accomodation type"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:270
+#: ../includes/post_types/accommodations.php:369
+msgid "Accommodation tags"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:283
+#: ../includes/post_types/car_rentals.php:196
+#: ../includes/post_types/cruises.php:201 ../includes/post_types/tours.php:150
+msgid "Sort by field"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:290
+#: ../includes/post_types/car_rentals.php:203
+#: ../includes/post_types/cruises.php:208 ../includes/post_types/tours.php:157
+msgid "Sort descending?"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:291
+msgid "If checked, will sort accommodations in descending order"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:316
+#: ../includes/post_types/accommodations.php:318
+#: ../includes/post_types/cabin_types.php:82
+#: ../includes/post_types/car_rentals.php:241
+#: ../includes/post_types/car_rentals.php:243
+#: ../includes/post_types/cruises.php:239
+#: ../includes/post_types/cruises.php:241
+#: ../includes/post_types/locations.php:101
+#: ../includes/post_types/locations.php:103
+#: ../includes/post_types/reviews.php:73
+#: ../includes/post_types/room_types.php:86
+#: ../includes/post_types/tours.php:242 ../includes/post_types/tours.php:244
+#: ../includes/theme_meta_boxes.php:78 ../includes/theme_meta_boxes.php:82
+#: ../includes/theme_post_types.php:76 ../includes/theme_post_types.php:80
+msgid "Extra information"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:357
+msgid "Search Accommodation tags"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:358
+msgid "All Accommodation tags"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:361
+msgid "Edit Accommodation tag"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:362
+msgid "Update Accommodation tag"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:363
+msgid "Add New Accommodation tag"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:364
+msgid "New Accommodation tag Name"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:365
+msgid "Separate accommodation tags with commas"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:366
+msgid "Add or remove accommodation tags"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:367
+msgid "Choose from the most used accommodation tags"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:368
+msgid "No accommodation tags found."
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:390
+msgid "Search Accommodation types"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:391
+msgid "All Accommodation types"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:394
+msgid "Edit Accommodation type"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:395
+msgid "Update Accommodation type"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:396
+msgid "Add New Accommodation type"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:397
+msgid "New Accommodation type Name"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:398
+msgid "Separate accommodation types with commas"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:399
+msgid "Add or remove accommodation types"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:400
+msgid "Choose from the most used accommodation types"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:401
+msgid "No accommodation types found."
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:402
+msgid "Accommodation types"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:427
+#: ../includes/theme_utils.php:443 ../includes/theme_woocommerce.php:33
+#: ../options.php:521
+msgid "Accommodations"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:428
+msgid "All Accommodations"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:429
+msgid "View Accommodation"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:430
+msgid "Add New Accommodation"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:431
+msgid "New Accommodation"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:432
+msgid "Edit Accommodation"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:433
+msgid "Update Accommodation"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:434
+msgid "Search Accommodations"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:435
+msgid "No Accommodations found"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:436
+msgid "No Accommodations found in Trash"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:440
+msgid "accommodation"
+msgstr ""
+
+#: ../includes/post_types/accommodations.php:441
+msgid "Accommodation information pages"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:19
+msgid "How many adults are allowed in the cabin?"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:28
+msgid "How many children are allowed in the cabin?"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:37
+#: ../includes/post_types/room_types.php:37
+msgid "How big is/are the beds?"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:42
+msgid "Cabin size"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:43
+msgid "What is the cabin size (m2)?"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:48
+msgid "Cabin meta information"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:49
+msgid "What other information applies to this specific cabin type?"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:90
+#: ../includes/post_types/cabin_types.php:91
+#: ../includes/post_types/cruises.php:61
+msgid "Cabin types"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:92
+msgid "View Cabin type"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:93
+msgid "Add New Cabin type"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:94
+msgid "New Cabin type"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:95
+msgid "Edit Cabin type"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:96
+msgid "Update Cabin type"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:97
+msgid "Search Cabin types"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:98
+msgid "No Cabin types found"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:99
+msgid "No Cabin types found in Trash"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:102
+msgid "cabin type"
+msgstr ""
+
+#: ../includes/post_types/cabin_types.php:103
+msgid "Cabin type information pages"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:20
+msgid "Manual transmission"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:21
+msgid "Auto transmission"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:39
+#: ../includes/post_types/cruises.php:115
+#: ../includes/post_types/locations.php:44 ../includes/post_types/tours.php:40
+msgid "A collection of images to be used in slider/gallery on single page"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:57
+msgid "What is the car's rental price per day?"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:68
+msgid "Number of available cars"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:69
+msgid ""
+"What number of cars are available for rent (used for admin purposes to "
+"determine availability)?"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:74
+msgid "Max count"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:75
+msgid "How many people are allowed in the car?"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:83
+msgid "Minimum age"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:84
+msgid "What is the minimum age of people in the car?"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:92
+msgid "Number of doors"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:93
+msgid "What is the number of doors the car has?"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:101
+msgid "Unlimited mileage"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:102
+msgid "Is there no restriction on mileage covered?"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:107
+msgid "Air-conditioning"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:108
+msgid "Is there air-conditioning?"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:113
+msgid "Transmission type"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:114
+msgid "What is the car's transmission type?"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:126
+msgid "Car rental tag"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:133
+msgid ""
+"If this option is checked, then this particular car rental will not be "
+"processed via WooCommerce even if WooCommerce is in use."
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:169
+msgid "Car rental title"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:170
+msgid "Car rental ID"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:190
+#: ../includes/post_types/car_rentals.php:281
+msgid "Car rental tags"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:204
+msgid "If checked, will sort car rentals in descending order"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:269
+msgid "Search Car rental tags"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:270
+msgid "All Car rental tags"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:273
+msgid "Edit Car rental tag"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:274
+msgid "Update Car rental tag"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:275
+msgid "Add New Car rental tag"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:276
+msgid "New Car rental tag Name"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:277
+msgid "Separate car rental tags with commas"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:278
+msgid "Add or remove car rental tags"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:279
+msgid "Choose from the most used car rental tags"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:280
+msgid "No car rental tags found."
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:326
+msgid "All Car rentals"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:327
+msgid "View Car rental"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:328
+msgid "Add New Car rental"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:329
+msgid "New Car rental"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:330
+msgid "Edit Car rental"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:331
+msgid "Update Car rental"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:332
+msgid "Search Car rentals"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:333
+msgid "No Car rentals found"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:334
+msgid "No Car rentals found in Trash"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:337
+msgid "car rental"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:338
+msgid "Car rental information pages"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:364
+msgid "Search Car types"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:365
+msgid "All Car types"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:368
+msgid "Edit Car type"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:369
+msgid "Update Car type"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:370
+msgid "Add New Car type"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:371
+msgid "New Car type Name"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:372
+msgid "Separate car types with commas"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:373
+msgid "Add or remove car types"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:374
+msgid "Choose from the most used car types"
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:375
+msgid "No car types found."
+msgstr ""
+
+#: ../includes/post_types/car_rentals.php:376
+msgid "Car types"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:68
+#: ../includes/post_types/locations.php:150
+#: ../includes/theme_of_default_fields.php:107 ../includes/theme_utils.php:447
+#: ../options.php:454
+msgid "Locations"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:76
+msgid ""
+"Is price calculated per person (adult, child)? If not then calculations are "
+"done per cabin."
+msgstr ""
+
+#: ../includes/post_types/cruises.php:91
+msgid ""
+"If this option is checked, then this particular cruise will not be processed "
+"via WooCommerce even if WooCommerce is in use."
+msgstr ""
+
+#: ../includes/post_types/cruises.php:174
+msgid "Cruise title"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:175
+msgid "Cruise ID"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:188
+#: ../includes/post_types/cruises.php:291
+msgid "Cruise tags"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:209
+msgid "If checked, will sort cruises in descending order"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:279
+msgid "Search Cruise tags"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:280
+msgid "All Cruise tags"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:283
+msgid "Edit Cruise tag"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:284
+msgid "Update Cruise tag"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:285
+msgid "Add New Cruise tag"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:286
+msgid "New Cruise tag Name"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:287
+msgid "Separate cruise tags with commas"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:288
+msgid "Add or remove cruise tags"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:289
+msgid "Choose from the most used cruise tags"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:290
+msgid "No cruise tags found."
+msgstr ""
+
+#: ../includes/post_types/cruises.php:311
+msgid "Search Cruise types"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:312
+msgid "All Cruise types"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:315
+msgid "Edit Cruise type"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:316
+msgid "Update Cruise type"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:317
+msgid "Add New Cruise type"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:318
+msgid "New Cruise Type Name"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:319
+msgid "Separate Cruise types with commas"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:320
+msgid "Add or remove Cruise types"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:321
+msgid "Choose from the most used Cruise types"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:322
+msgid "No Cruise types found."
+msgstr ""
+
+#: ../includes/post_types/cruises.php:323
+msgid "Cruise types"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:369
+msgid "All Cruises"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:370
+msgid "View Cruise"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:371
+msgid "Add New Cruise"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:372
+msgid "New Cruise"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:373
+msgid "Edit Cruise"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:374
+msgid "Update Cruise"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:375
+msgid "Search Cruises"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:376
+msgid "No Cruises found"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:377
+msgid "No Cruises found in Trash"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:380
+msgid "cruise"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:381
+msgid "Cruise information pages"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:470
+#: ../includes/post_types/cruises.php:503
+msgid "Is cruise repeated?"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:473
+#: ../includes/post_types/cruises.php:507
+#: ../includes/post_types/tours.php:1172 ../includes/post_types/tours.php:1206
+msgid "Daily"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:474
+#: ../includes/post_types/cruises.php:508
+#: ../includes/post_types/tours.php:1173 ../includes/post_types/tours.php:1207
+msgid "Weekdays"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:475
+#: ../includes/post_types/cruises.php:509
+#: ../includes/post_types/tours.php:1174 ../includes/post_types/tours.php:1208
+msgid "Weekly"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:477
+msgid ""
+"Do cruises belonging to this cruise type repeat on a daily, weekly, weekday "
+"or monthly basis?"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:480
+msgid "Start day (if weekly or monthly)"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:488
+#: ../includes/post_types/cruises.php:524
+msgid "Select a start day of the week for weekly cruise"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:511
+msgid ""
+"Do cruises belonging to this cruise type repeat on a daily or weekly basis?"
+msgstr ""
+
+#: ../includes/post_types/cruises.php:515
+#: ../includes/post_types/tours.php:1179 ../includes/post_types/tours.php:1214
+msgid "Start day (if weekly)"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:39
+msgid "Search Facilities"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:40
+msgid "All Facilities"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:43
+msgid "Edit Facility"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:44
+msgid "Update Facility"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:45
+msgid "Add New Facility"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:46
+msgid "New Facility Name"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:47
+msgid "Separate facilities with commas"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:48
+msgid "Add or remove facilities"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:49
+msgid "Choose from the most used facilities"
+msgstr ""
+
+#: ../includes/post_types/facilities.php:50
+msgid "No facilities found."
+msgstr ""
+
+#: ../includes/post_types/locations.php:31
+msgid "Display As Directory?"
+msgstr ""
+
+#: ../includes/post_types/locations.php:32
+msgid ""
+"Check this option if you want to show list of descendant locations when "
+"showing this single location instead of showing what single location page "
+"usually shows. Useful for Country locations that than lists all of that "
+"country's cities."
+msgstr ""
+
+#: ../includes/post_types/locations.php:38
+msgid "Country name"
+msgstr ""
+
+#: ../includes/post_types/locations.php:151
+msgid "All Locations"
+msgstr ""
+
+#: ../includes/post_types/locations.php:152
+msgid "View Location"
+msgstr ""
+
+#: ../includes/post_types/locations.php:153
+msgid "Add New Location"
+msgstr ""
+
+#: ../includes/post_types/locations.php:154
+msgid "New Location"
+msgstr ""
+
+#: ../includes/post_types/locations.php:155
+msgid "Edit Location"
+msgstr ""
+
+#: ../includes/post_types/locations.php:156
+msgid "Update Location"
+msgstr ""
+
+#: ../includes/post_types/locations.php:157
+msgid "Search locations"
+msgstr ""
+
+#: ../includes/post_types/locations.php:158
+msgid "No locations found"
+msgstr ""
+
+#: ../includes/post_types/locations.php:159
+msgid "No locations found in Trash"
+msgstr ""
+
+#: ../includes/post_types/locations.php:162
+msgid "location"
+msgstr ""
+
+#: ../includes/post_types/locations.php:163
+msgid "Location information pages"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:19
+msgid "Likes"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:20
+msgid "What the user likes about the accommodation"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:25
+msgid "Dislikes"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:26
+msgid "What the user dislikes about the accommodation"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:31
+msgid "Reviewed item"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:37
+#: ../includes/theme_of_default_fields.php:210
+msgid "Cleanliness"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:37
+msgid "Cleanliness rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:38
+#: ../includes/theme_of_default_fields.php:211
+msgid "Comfort"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:38
+msgid "Comfort rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:39
+msgid "Location rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:40
+#: ../includes/theme_of_default_fields.php:212
+msgid "Staff"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:40
+msgid "Staff rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:41
+#: ../includes/theme_of_default_fields.php:213
+msgid "Services"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:41
+msgid "Services rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:42
+#: ../includes/theme_of_default_fields.php:214
+msgid "Value for money"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:42
+msgid "Value for money rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:43
+#: ../includes/theme_of_default_fields.php:215
+msgid "Sleep quality"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:43
+msgid "Sleep quality rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:44
+#: ../includes/theme_of_default_fields.php:228
+msgid "Overall"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:44
+msgid "Overall rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:45
+msgid "Accommodation rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:46
+#: ../includes/theme_of_default_fields.php:230
+msgid "Transport"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:46
+msgid "Transport rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:47
+#: ../includes/theme_of_default_fields.php:231
+msgid "Meals"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:47
+msgid "Meals rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:48
+#: ../includes/theme_of_default_fields.php:232
+msgid "Guide"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:48
+msgid "Guide rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:49
+#: ../includes/theme_of_default_fields.php:233
+msgid "Program accuracy"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:49
+msgid "Program accuracy rating"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:87 ../includes/post_types/reviews.php:88
+#: ../includes/theme_of_default_fields.php:69
+#: ../includes/theme_of_default_fields.php:108 ../options.php:677
+msgid "Reviews"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:89
+msgid "View Review"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:90
+msgid "Add New Review"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:91
+msgid "New Review"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:92
+msgid "Edit Review"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:93
+msgid "Update Review"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:94
+msgid "Search reviews"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:95
+msgid "No reviews found"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:96
+msgid "No reviews found in Trash"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:99
+msgid "Review"
+msgstr ""
+
+#: ../includes/post_types/reviews.php:100
+msgid "Review information pages"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:19
+msgid "How many adults are allowed in the room?"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:28
+msgid "How many children are allowed in the room?"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:43
+msgid "What is the room size (m2)?"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:49
+msgid "What other information applies to this specific room type?"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:96
+msgid "View Room type"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:97
+msgid "Add New Room type"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:98
+msgid "New Room type"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:99
+msgid "Edit Room type"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:100
+msgid "Update Room type"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:101
+msgid "Search room_types"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:102
+msgid "No room types found"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:103
+msgid "No room types found in Trash"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:106
+msgid "room type"
+msgstr ""
+
+#: ../includes/post_types/room_types.php:107
+msgid "Room type information pages"
+msgstr ""
+
+#: ../includes/post_types/tours.php:26
+msgid "Price per group?"
+msgstr ""
+
+#: ../includes/post_types/tours.php:27
+msgid ""
+"Is price calculated per group? If not then calculations are done per person."
+msgstr ""
+
+#: ../includes/post_types/tours.php:57
+msgid "Map code"
+msgstr ""
+
+#: ../includes/post_types/tours.php:76
+msgid ""
+"If this option is checked, then this particular tour will not be processed "
+"via WooCommerce even if WooCommerce is in use."
+msgstr ""
+
+#: ../includes/post_types/tours.php:123
+msgid "Tour title"
+msgstr ""
+
+#: ../includes/post_types/tours.php:124
+msgid "Tour ID"
+msgstr ""
+
+#: ../includes/post_types/tours.php:144 ../includes/post_types/tours.php:218
+msgid "Tour tags"
+msgstr ""
+
+#: ../includes/post_types/tours.php:158
+msgid "If checked, will sort tours in descending order"
+msgstr ""
+
+#: ../includes/post_types/tours.php:206
+msgid "Search Tour tags"
+msgstr ""
+
+#: ../includes/post_types/tours.php:207
+msgid "All Tour tags"
+msgstr ""
+
+#: ../includes/post_types/tours.php:210
+msgid "Edit Tour tag"
+msgstr ""
+
+#: ../includes/post_types/tours.php:211
+msgid "Update Tour tag"
+msgstr ""
+
+#: ../includes/post_types/tours.php:212
+msgid "Add New Tour tag"
+msgstr ""
+
+#: ../includes/post_types/tours.php:213
+msgid "New Tour tag Name"
+msgstr ""
+
+#: ../includes/post_types/tours.php:214
+msgid "Separate tour tags with commas"
+msgstr ""
+
+#: ../includes/post_types/tours.php:215
+msgid "Add or remove tour tags"
+msgstr ""
+
+#: ../includes/post_types/tours.php:216
+msgid "Choose from the most used tour tags"
+msgstr ""
+
+#: ../includes/post_types/tours.php:217
+msgid "No tour tags found."
+msgstr ""
+
+#: ../includes/post_types/tours.php:286
+msgid "All Tours"
+msgstr ""
+
+#: ../includes/post_types/tours.php:287
+msgid "View Tour"
+msgstr ""
+
+#: ../includes/post_types/tours.php:288
+msgid "Add New Tour"
+msgstr ""
+
+#: ../includes/post_types/tours.php:289
+msgid "New Tour"
+msgstr ""
+
+#: ../includes/post_types/tours.php:290
+msgid "Edit Tour"
+msgstr ""
+
+#: ../includes/post_types/tours.php:291
+msgid "Update Tour"
+msgstr ""
+
+#: ../includes/post_types/tours.php:292
+msgid "Search Tours"
+msgstr ""
+
+#: ../includes/post_types/tours.php:293
+msgid "No Tours found"
+msgstr ""
+
+#: ../includes/post_types/tours.php:294
+msgid "No Tours found in Trash"
+msgstr ""
+
+#: ../includes/post_types/tours.php:297
+msgid "tour"
+msgstr ""
+
+#: ../includes/post_types/tours.php:298
+msgid "Tour information pages"
+msgstr ""
+
+#: ../includes/post_types/tours.php:322
+msgid "Search Tour types"
+msgstr ""
+
+#: ../includes/post_types/tours.php:323
+msgid "All Tour types"
+msgstr ""
+
+#: ../includes/post_types/tours.php:326
+msgid "Edit Tour type"
+msgstr ""
+
+#: ../includes/post_types/tours.php:327
+msgid "Update Tour type"
+msgstr ""
+
+#: ../includes/post_types/tours.php:328
+msgid "Add New Tour type"
+msgstr ""
+
+#: ../includes/post_types/tours.php:329
+msgid "New Tour Type Name"
+msgstr ""
+
+#: ../includes/post_types/tours.php:330
+msgid "Separate Tour types with commas"
+msgstr ""
+
+#: ../includes/post_types/tours.php:331
+msgid "Add or remove Tour types"
+msgstr ""
+
+#: ../includes/post_types/tours.php:332
+msgid "Choose from the most used Tour types"
+msgstr ""
+
+#: ../includes/post_types/tours.php:333
+msgid "No Tour types found."
+msgstr ""
+
+#: ../includes/post_types/tours.php:334
+msgid "Tour types"
+msgstr ""
+
+#: ../includes/post_types/tours.php:1169 ../includes/post_types/tours.php:1202
+msgid "Is tour repeated?"
+msgstr ""
+
+#: ../includes/post_types/tours.php:1176 ../includes/post_types/tours.php:1210
+msgid "Do tours belonging to this tour type repeat on a daily or weekly basis?"
+msgstr ""
+
+#: ../includes/post_types/tours.php:1187 ../includes/post_types/tours.php:1223
+msgid "Select a start day of the week for weekly tour"
+msgstr ""
+
+#: ../includes/theme_actions.php:47
+msgid "Repeat password"
+msgstr ""
+
+#: ../includes/theme_actions.php:90 ../options.php:735
+msgid "Your Book Your Travel database needs an upgrade!"
+msgstr ""
+
+#: ../includes/theme_actions.php:91 ../options.php:736
+#, php-format
+msgid ""
+"Your current database version is <strong>%s</strong>, while the current "
+"theme version is <strong>%s</strong>."
+msgstr ""
+
+#: ../includes/theme_actions.php:92
+msgid "Please click the button below to go to the upgrade screen."
+msgstr ""
+
+#: ../includes/theme_actions.php:93
+msgid "Go To Upgrade Screen"
+msgstr ""
+
+#: ../includes/theme_actions.php:125
+msgid "Primary Menu"
+msgstr ""
+
+#: ../includes/theme_actions.php:126
+msgid "Footer Menu"
+msgstr ""
+
+#: ../includes/theme_actions.php:147
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:149
+msgid "This Widget area is used for the left sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:158
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:160
+msgid "This Widget area is used for the right sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:169
+msgid "Right Accommodation Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:171
+msgid ""
+"This Widget area is used for the right sidebar for single accommodations"
+msgstr ""
+
+#: ../includes/theme_actions.php:180
+msgid "Right Tour Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:182
+msgid "This Widget area is used for the right sidebar for single tours"
+msgstr ""
+
+#: ../includes/theme_actions.php:191
+msgid "Right Cruise Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:193
+msgid "This Widget area is used for the right sidebar for single cruises"
+msgstr ""
+
+#: ../includes/theme_actions.php:202
+msgid "Right Car Rental Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:204
+msgid "This Widget area is used for the right sidebar for single car rentals"
+msgstr ""
+
+#: ../includes/theme_actions.php:213
+msgid "Header Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:215
+msgid ""
+"This Widget area is used for the header area (usually for purposes of "
+"displaying WPML language switcher widget)"
+msgstr ""
+
+#: ../includes/theme_actions.php:225
+msgid "Under Header Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:227
+msgid "This Widget area is placed under the website header"
+msgstr ""
+
+#: ../includes/theme_actions.php:236
+msgid "Above Footer Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:238
+msgid "This Widget area is placed above the website footer"
+msgstr ""
+
+#: ../includes/theme_actions.php:248
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:250
+msgid "This Widget area is used for the footer area"
+msgstr ""
+
+#: ../includes/theme_actions.php:259
+msgid "Home Footer Widget Area"
+msgstr ""
+
+#: ../includes/theme_actions.php:261
+msgid ""
+"This Widget area is used for the home page footer area above the regular "
+"footer"
+msgstr ""
+
+#: ../includes/theme_actions.php:269
+msgid "Home Content Widget Area"
+msgstr ""
+
+#: ../includes/theme_actions.php:271
+msgid "This Widget area is used for the home page main content area"
+msgstr ""
+
+#: ../includes/theme_actions.php:283
+msgid "BYT Frontend Submit Role"
+msgstr ""
+
+#: ../includes/theme_actions.php:292
+msgid "Pending activation"
+msgstr ""
+
+#: ../includes/theme_ajax.php:242
+msgid "New tour booking"
+msgstr ""
+
+#: ../includes/theme_ajax.php:244
+#, php-format
+msgid ""
+"New tour booking: \n"
+"\n"
+"First name: %s \n"
+"\n"
+"Last name: %s \n"
+"\n"
+"Email: %s \n"
+"\n"
+"Phone: %s \n"
+"\n"
+"Address: %s \n"
+"\n"
+"Town: %s \n"
+"\n"
+"Zip: %s \n"
+"\n"
+"Country: %s \n"
+"\n"
+"Special requirements: %s \n"
+"\n"
+"Adults: %d \n"
+"\n"
+"Children: %d \n"
+"\n"
+"Tour name: %s \n"
+"\n"
+"Start date: %s \n"
+"\n"
+"Total price: %d \n"
+msgstr ""
+
+#: ../includes/theme_ajax.php:353
+msgid "New cruise booking"
+msgstr ""
+
+#: ../includes/theme_ajax.php:355
+#, php-format
+msgid ""
+"New cruise booking: \n"
+"\n"
+"First name: %s \n"
+"\n"
+"Last name: %s \n"
+"\n"
+"Email: %s \n"
+"\n"
+"Phone: %s \n"
+"\n"
+"Address: %s \n"
+"\n"
+"Town: %s \n"
+"\n"
+"Zip: %s \n"
+"\n"
+"Country: %s \n"
+"\n"
+"Special requirements: %s \n"
+"\n"
+"Adults: %d \n"
+"\n"
+"Children: %d \n"
+"\n"
+"Cruise name: %s \n"
+"\n"
+"Start date: %s \n"
+"\n"
+"Total price: %d \n"
+msgstr ""
+
+#: ../includes/theme_ajax.php:644
+msgid "New car rental booking"
+msgstr ""
+
+#: ../includes/theme_ajax.php:646
+#, php-format
+msgid ""
+"New car rental booking: \n"
+"\n"
+"First name: %s \n"
+"\n"
+"Last name: %s \n"
+"\n"
+"Email: %s \n"
+"\n"
+"Phone: %s \n"
+"\n"
+"Address: %s \n"
+"\n"
+"Town: %s \n"
+"\n"
+"Zip: %s \n"
+"\n"
+"Country: %s \n"
+"\n"
+"Special requirements: %s \n"
+"\n"
+"Date from: %s \n"
+"\n"
+"Date to: %s \n"
+"\n"
+"Pick up: %s \n"
+"\n"
+"Drop off: %s \n"
+"\n"
+"Total price: %d \n"
+"\n"
+"Car: %s \n"
+msgstr ""
+
+#: ../includes/theme_ajax.php:958
+msgid "New accommodation booking"
+msgstr ""
+
+#: ../includes/theme_ajax.php:961
+#, php-format
+msgid ""
+"New self-catered booking: \n"
+"\n"
+"First name: %s \n"
+"\n"
+"Last name: %s \n"
+"\n"
+"Email: %s \n"
+"\n"
+"Phone: %s \n"
+"\n"
+"Address: %s \n"
+"\n"
+"Town: %s \n"
+"\n"
+"Zip: %s \n"
+"\n"
+"Country: %s \n"
+"\n"
+"Special requirements: %s \n"
+"\n"
+"Adults: %s \n"
+"\n"
+"Children: %s \n"
+"\n"
+"Date from: %s \n"
+"\n"
+"Date to: %s \n"
+"\n"
+"Total price: %d \n"
+"\n"
+"Accommodation: %s"
+msgstr ""
+
+#: ../includes/theme_ajax.php:964
+#, php-format
+msgid ""
+"New hotel booking: \n"
+"\n"
+"First name: %s \n"
+"\n"
+"Last name: %s \n"
+"\n"
+"Email: %s \n"
+"\n"
+"Phone: %s \n"
+"\n"
+"Address: %s \n"
+"\n"
+"Town: %s \n"
+"\n"
+"Zip: %s \n"
+"\n"
+"Country: %s \n"
+"\n"
+"Special requirements: %s \n"
+"\n"
+"Room count: %d \n"
+"\n"
+"Adults: %s \n"
+"\n"
+"Children: %s \n"
+"\n"
+"Date from: %s \n"
+"\n"
+"Date to: %s \n"
+"\n"
+"Total price: %d \n"
+"\n"
+"Accommodation: %s \n"
+"\n"
+"Room type: %s \n"
+msgstr ""
+
+#: ../includes/theme_ajax.php:1113
+msgid "New inquiry"
+msgstr ""
+
+#: ../includes/theme_ajax.php:1115
+#, php-format
+msgid ""
+"The following inquiry has just arrived: \n"
+" Name: %s \n"
+" Email: %s \n"
+" Phone: %s \n"
+" Message: %s \n"
+" Inquiring about: %s \n"
+msgstr ""
+
+#: ../includes/theme_ajax.php:1227
+#, php-format
+msgid "Review of %s by %s [%s]"
+msgstr ""
+
+#: ../includes/theme_filters.php:60
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:27
+msgid "Vacancy"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:31
+msgid "No sidebar"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:32
+msgid "Left sidebar"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:33
+msgid "Right sidebar"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:34
+msgid "Left and right sidebars"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:38
+msgid "Select sidebar positioning"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:48
+msgid "Users can front-end submit?"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:49
+msgid ""
+"Check this box if users registering through this form can use the frontend "
+"submit pages to submit content."
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:57
+msgid "Content type"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:86
+msgid "Sidebar selection"
+msgstr ""
+
+#: ../includes/theme_of_custom.php:28 ../includes/theme_of_custom.php:36
+msgid "BookYourTravel Theme"
+msgstr ""
+
+#: ../includes/theme_of_custom.php:70 ../includes/theme_of_custom.php:87
+#: ../includes/theme_of_custom.php:177 ../includes/theme_of_custom.php:216
+#: ../includes/theme_of_custom.php:294 ../includes/theme_of_custom.php:313
+msgid "Is hidden?"
+msgstr ""
+
+#: ../includes/theme_of_custom.php:93
+msgid "Add tab"
+msgstr ""
+
+#: ../includes/theme_of_custom.php:152 ../includes/theme_of_custom.php:192
+#: ../includes/theme_of_custom.php:291 ../includes/theme_of_custom.php:310
+msgid "Field label"
+msgstr ""
+
+#: ../includes/theme_of_custom.php:156 ../includes/theme_of_custom.php:196
+msgid "Field type"
+msgstr ""
+
+#: ../includes/theme_of_custom.php:166 ../includes/theme_of_custom.php:204
+msgid "Field tab"
+msgstr ""
+
+#: ../includes/theme_of_custom.php:221
+msgid "Add field"
+msgstr ""
+
+#: ../includes/theme_of_custom.php:223
+msgid ""
+"Please hit the \"Save Options\" button to create the initial collection of "
+"tabs so that extra fields can be associated with tabs correctly."
+msgstr ""
+
+#: ../includes/theme_of_custom.php:318
+msgid "Add review field"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:62
+msgid "Text field"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:63
+msgid "Text area field"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:64
+msgid "Image field"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:67
+#: ../includes/theme_of_default_fields.php:105 ../single-accommodation.php:1
+msgid "Availability"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:68
+msgid "Things to do"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:85
+msgid "Cancellation / Prepayment"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:86
+msgid "Children and extra beds"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:87
+msgid "Pets"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:88
+msgid "Accepted credit cards"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:89
+#: ../includes/theme_of_default_fields.php:119
+msgid "Activities"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:90
+msgid "Internet"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:91
+msgid "Parking"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:132
+msgid "CO2 emission"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:139
+msgid "General information"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:140
+#: ../includes/theme_of_default_fields.php:163
+msgid "Sports &amp; nature"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:141 ../single-accommodation.php:1
+msgid "Nightlife"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:142
+msgid "Culture and history"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:144
+msgid "Self catered"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:164
+msgid "Sports and nature image"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:165
+msgid "Nightlife info"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:166
+msgid "Nightlife image"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:167
+msgid "Culture and history info"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:168
+msgid "Culture and history image"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:169
+msgid "Visa requirements"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:170
+msgid "Languages spoken"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:171
+msgid "Currency used"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:172
+msgid "Area (km2)"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:198
+msgid "Arrival time"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:199
+msgid "Departure time"
+msgstr ""
+
+#: ../includes/theme_of_default_fields.php:246
+msgid "Entertainment"
+msgstr ""
+
+#: ../includes/theme_post_types.php:33
+msgid "Is partner page?"
+msgstr ""
+
+#: ../includes/theme_post_types.php:34
+msgid "If checked, will display partner (front end submit) pages and menus"
+msgstr ""
+
+#: ../includes/theme_post_types.php:42
+msgid "Accommodation vacancy"
+msgstr ""
+
+#: ../includes/theme_post_types.php:47
+msgid "User content type"
+msgstr ""
+
+#: ../includes/theme_utils.php:8
+msgid "Monday"
+msgstr ""
+
+#: ../includes/theme_utils.php:9
+msgid "Tuesday"
+msgstr ""
+
+#: ../includes/theme_utils.php:10
+msgid "Wednesday"
+msgstr ""
+
+#: ../includes/theme_utils.php:11
+msgid "Thursday"
+msgstr ""
+
+#: ../includes/theme_utils.php:12
+msgid "Friday"
+msgstr ""
+
+#: ../includes/theme_utils.php:13
+msgid "Saturday"
+msgstr ""
+
+#: ../includes/theme_utils.php:14
+msgid "Sunday"
+msgstr ""
+
+#: ../includes/theme_utils.php:433
+msgid "Error 404 - Page not found"
+msgstr ""
+
+#: ../includes/theme_utils.php:436
+msgid "Search results for: "
+msgstr ""
+
+#: ../includes/theme_utils.php:488
+msgid "&lt;"
+msgstr ""
+
+#: ../includes/theme_utils.php:489
+msgid "&gt;"
+msgstr ""
+
+#: ../includes/theme_utils.php:509
+msgid "First page"
+msgstr ""
+
+#: ../includes/theme_utils.php:519
+msgid "Last page"
+msgstr ""
+
+#: ../includes/theme_utils.php:535
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/theme_utils.php:538
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/theme_utils.php:580
+msgid " - User Activation "
+msgstr ""
+
+#: ../includes/theme_utils.php:581
+msgid "To activate your user account, please click the activation link below: "
+msgstr ""
+
+#: ../includes/theme_utils.php:619
+msgid " - User Activation Success "
+msgstr ""
+
+#: ../includes/theme_utils.php:621
+msgid ""
+"Thank you for activating your account. You may now log in using the "
+"credentials you supplied when you created your account."
+msgstr ""
+
+#: ../includes/theme_utils.php:624
+msgid ""
+"Thank you for activating your account. You may now log in using the "
+"following credentials:"
+msgstr ""
+
+#: ../includes/theme_utils.php:625
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../includes/theme_utils.php:626
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: ../includes/theme_utils.php:627
+#, php-format
+msgid "Login url: %s"
+msgstr ""
+
+#: ../includes/theme_utils.php:686
+msgid " - New Password "
+msgstr ""
+
+#: ../includes/theme_utils.php:687
+msgid "Your password was successfully reset. "
+msgstr ""
+
+#: ../includes/theme_utils.php:690
+msgid "Your new password is:"
+msgstr ""
+
+#: ../includes/theme_utils.php:731
+msgid " - Reset Password "
+msgstr ""
+
+#: ../includes/theme_utils.php:732
+msgid "To reset your password please go to the following url: "
+msgstr ""
+
+#: ../includes/theme_utils.php:737
+msgid "This link will remain valid for the next 24 hours."
+msgstr ""
+
+#: ../includes/theme_utils.php:738
+msgid "In case you did not request a password reset, please ignore this email."
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:33
+msgid "Accommodations category"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:36
+msgid "Tours Category"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:39
+msgid "Car Rentals Category"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:42
+msgid "Cruises Category"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:380 ../includes/theme_woocommerce.php:452
+#, php-format
+msgid "%d adults"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:380 ../includes/theme_woocommerce.php:452
+#, php-format
+msgid "%d children"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:382 ../includes/theme_woocommerce.php:393
+#: ../includes/theme_woocommerce.php:454 ../includes/theme_woocommerce.php:472
+msgid " to "
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:387 ../includes/theme_woocommerce.php:461
+msgid "Tour date:"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:388 ../includes/theme_woocommerce.php:462
+#, php-format
+msgid "Tour duration: %d days"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:399 ../includes/theme_woocommerce.php:482
+msgid "Cruise date:"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:400 ../includes/theme_woocommerce.php:483
+#, php-format
+msgid "Cruise duration: %d days"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:463
+#, php-format
+msgid "Adults: %d"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:464
+#, php-format
+msgid "Children: %d"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:473
+msgid "Pickup at:"
+msgstr ""
+
+#: ../includes/theme_woocommerce.php:474
+msgid "Drop-off at:"
+msgstr ""
+
+#: ../options.php:31
+msgid "Default"
+msgstr ""
+
+#: ../options.php:32
+msgid "Black"
+msgstr ""
+
+#: ../options.php:33
+msgid "Blue"
+msgstr ""
+
+#: ../options.php:34
+msgid "Orange"
+msgstr ""
+
+#: ../options.php:35
+msgid "Pink"
+msgstr ""
+
+#: ../options.php:36
+msgid "Purple"
+msgstr ""
+
+#: ../options.php:37
+msgid "Strawberry"
+msgstr ""
+
+#: ../options.php:38
+msgid "Yellow"
+msgstr ""
+
+#: ../options.php:39
+msgid "Navy"
+msgstr ""
+
+#: ../options.php:44
+msgid "Select page"
+msgstr ""
+
+#: ../options.php:50
+msgid "Zero (e.g. $200)"
+msgstr ""
+
+#: ../options.php:51
+msgid "One  (e.g. $200.0)"
+msgstr ""
+
+#: ../options.php:52
+msgid "Two (e.g. $200.00)"
+msgstr ""
+
+#: ../options.php:56
+msgid "Grid view"
+msgstr ""
+
+#: ../options.php:57
+msgid "List view"
+msgstr ""
+
+#: ../options.php:63
+msgid "General Settings"
+msgstr ""
+
+#: ../options.php:67
+msgid "Website logo"
+msgstr ""
+
+#: ../options.php:68
+msgid "Upload your website logo to go in place of default theme logo."
+msgstr ""
+
+#: ../options.php:73
+msgid "Select color scheme"
+msgstr ""
+
+#: ../options.php:74
+msgid "Select website color scheme."
+msgstr ""
+
+#: ../options.php:82
+msgid "Company name"
+msgstr ""
+
+#: ../options.php:83
+msgid "Company name displayed on the contact us page."
+msgstr ""
+
+#: ../options.php:90
+msgid "Contact phone number"
+msgstr ""
+
+#: ../options.php:91
+msgid "Contact phone number displayed on the site."
+msgstr ""
+
+#: ../options.php:98
+msgid "Contact address street"
+msgstr ""
+
+#: ../options.php:99
+msgid "Contact address street displayed on the contact us page."
+msgstr ""
+
+#: ../options.php:106
+msgid "Contact address city"
+msgstr ""
+
+#: ../options.php:107
+msgid "Contact address city displayed on the contact us page."
+msgstr ""
+
+#: ../options.php:114
+msgid "Contact address country"
+msgstr ""
+
+#: ../options.php:115
+msgid "Contact address country displayed on the contact us page."
+msgstr ""
+
+#: ../options.php:122
+msgid "Contact email"
+msgstr ""
+
+#: ../options.php:123
+msgid "Contact email displayed on the contact us page."
+msgstr ""
+
+#: ../options.php:130
+msgid "Business address latitude"
+msgstr ""
+
+#: ../options.php:131
+msgid "Enter your business address latitude to use for contact form map"
+msgstr ""
+
+#: ../options.php:138
+msgid "Business address longitude"
+msgstr ""
+
+#: ../options.php:139
+msgid "Enter your business address longitude to use for contact form map"
+msgstr ""
+
+#: ../options.php:146
+msgid "Footer copyright notice"
+msgstr ""
+
+#: ../options.php:147
+msgid "Copyright notice in footer."
+msgstr ""
+
+#: ../options.php:153
+msgid "Configuration Settings"
+msgstr ""
+
+#: ../options.php:157
+msgid "Price decimal places"
+msgstr ""
+
+#: ../options.php:158
+msgid "Number of decimal places to show for prices"
+msgstr ""
+
+#: ../options.php:166
+msgid "Default currency symbol"
+msgstr ""
+
+#: ../options.php:167
+msgid "What is your default currency symbol"
+msgstr ""
+
+#: ../options.php:174
+msgid "Show currency symbol after price?"
+msgstr ""
+
+#: ../options.php:175
+msgid ""
+"If this option is checked, currency symbol will show up after the price, "
+"instead of before (e.g. 150 $ instead of $150)."
+msgstr ""
+
+#: ../options.php:181
+msgid "Hide header ribbon"
+msgstr ""
+
+#: ../options.php:182
+msgid "Hide the header ribbon (with my account, currencies, languages etc)"
+msgstr ""
+
+#: ../options.php:188
+msgid "Enable RTL"
+msgstr ""
+
+#: ../options.php:189
+msgid "Enable right-to-left support"
+msgstr ""
+
+#: ../options.php:196
+msgid "Use WooCommerce for checkout"
+msgstr ""
+
+#: ../options.php:197
+msgid "Use WooCommerce to enable payment after booking"
+msgstr ""
+
+#: ../options.php:204
+msgid "Add captcha to forms"
+msgstr ""
+
+#: ../options.php:205
+msgid ""
+"Add simple captcha implemented inside BookYourTravel theme to forms (login, "
+"register, book, inquire, contact etc)"
+msgstr ""
+
+#: ../options.php:211
+msgid "Override wp-login.php"
+msgstr ""
+
+#: ../options.php:212
+msgid ""
+"Override wp-login.php and use custom login, register, forgot password pages"
+msgstr ""
+
+#: ../options.php:218
+msgid "Users specify password"
+msgstr ""
+
+#: ../options.php:219
+msgid "Let users specify their password when registering"
+msgstr ""
+
+#: ../options.php:225
+msgid "Page Settings"
+msgstr ""
+
+#: ../options.php:232
+msgid "Show slider"
+msgstr ""
+
+#: ../options.php:233
+msgid "Show slider on home page"
+msgstr ""
+
+#: ../options.php:245
+msgid "Homepage slider"
+msgstr ""
+
+#: ../options.php:246
+msgid "Select homepage slider from existing sliders"
+msgstr ""
+
+#: ../options.php:256
+msgid "My account dashboard page"
+msgstr ""
+
+#: ../options.php:257
+msgid "Page that displays settings, bookings and reviews of logged in user"
+msgstr ""
+
+#: ../options.php:265
+msgid "Redirect to after login"
+msgstr ""
+
+#: ../options.php:266
+msgid ""
+"Page to redirect to after login if \"Override wp-login.php\" is checked above"
+msgstr ""
+
+#: ../options.php:274
+msgid "Redirect to after logout"
+msgstr ""
+
+#: ../options.php:275
+msgid ""
+"Page to redirect to after logout if \"Override wp-login.php\" is checked "
+"above"
+msgstr ""
+
+#: ../options.php:283
+msgid "Login page url"
+msgstr ""
+
+#: ../options.php:284
+msgid "Login page if \"Override wp-login.php\" is checked above"
+msgstr ""
+
+#: ../options.php:292
+msgid "Register page url"
+msgstr ""
+
+#: ../options.php:293
+msgid "Register page if \"Override wp-login.php\" is checked above"
+msgstr ""
+
+#: ../options.php:301
+msgid "Reset password page url"
+msgstr ""
+
+#: ../options.php:302
+msgid "Reset password page if \"Override wp-login.php\" is checked above"
+msgstr ""
+
+#: ../options.php:310 ../options.php:311
+msgid "Terms &amp; conditions page url"
+msgstr ""
+
+#: ../options.php:319 ../options.php:320
+msgid "Contact Us page url"
+msgstr ""
+
+#: ../options.php:328 ../options.php:329
+msgid "Submit room types page url"
+msgstr ""
+
+#: ../options.php:337 ../options.php:338
+msgid "Submit accommodations page url"
+msgstr ""
+
+#: ../options.php:346 ../options.php:347
+msgid "Submit accommodation vacancies page url"
+msgstr ""
+
+#: ../options.php:355 ../options.php:356
+msgid "List user room types page url"
+msgstr ""
+
+#: ../options.php:364 ../options.php:365
+msgid "List user accommodations page url"
+msgstr ""
+
+#: ../options.php:373 ../options.php:374
+msgid "List user accommodation vacancies page url"
+msgstr ""
+
+#: ../options.php:382
+msgid "Search Settings"
+msgstr ""
+
+#: ../options.php:386
+msgid "Search only available properties"
+msgstr ""
+
+#: ../options.php:387
+msgid "Search displays only properties with valid vacancies/schedules etc"
+msgstr ""
+
+#: ../options.php:393
+msgid "Custom search results page"
+msgstr ""
+
+#: ../options.php:394
+msgid "Page to redirect to for custom search results"
+msgstr ""
+
+#: ../options.php:402
+msgid "Custom search results default view"
+msgstr ""
+
+#: ../options.php:403
+msgid "Custom search results default view (grid or list view)"
+msgstr ""
+
+#: ../options.php:411
+msgid "Search results posts per page"
+msgstr ""
+
+#: ../options.php:412
+msgid "Number of results to display on custom search page"
+msgstr ""
+
+#: ../options.php:418
+msgid "Price range bottom"
+msgstr ""
+
+#: ../options.php:419
+msgid "Bottom value of price range used in search form (usually 0)"
+msgstr ""
+
+#: ../options.php:426
+msgid "Price range increment"
+msgstr ""
+
+#: ../options.php:427
+msgid "Increment value of price range used in search form (default 50)"
+msgstr ""
+
+#: ../options.php:434
+msgid "Price range increment count"
+msgstr ""
+
+#: ../options.php:435
+msgid "Increment count of price range used in search form (default 5)"
+msgstr ""
+
+#: ../options.php:443
+msgid "Frontend Submissions"
+msgstr ""
+
+#: ../options.php:447
+msgid "Publish frontend submitted content immediately?"
+msgstr ""
+
+#: ../options.php:448
+msgid ""
+"When users submit content via frontend, do you publish it immediately or do "
+"you leave it for admin to review?"
+msgstr ""
+
+#: ../options.php:458
+msgid "Show  self-catered count in location items"
+msgstr ""
+
+#: ../options.php:459
+msgid "Show  self-catered count in location items shown location list page"
+msgstr ""
+
+#: ../options.php:465
+msgid "Show hotel count in location items"
+msgstr ""
+
+#: ../options.php:466
+msgid "Show hotel count in location items shown location list page"
+msgstr ""
+
+#: ../options.php:472
+msgid "Show cruise count in location items"
+msgstr ""
+
+#: ../options.php:473
+msgid "Show cruise count in location items shown location list page"
+msgstr ""
+
+#: ../options.php:479
+msgid "Show tour count in location items"
+msgstr ""
+
+#: ../options.php:480
+msgid "Show tour count in location items shown location list page"
+msgstr ""
+
+#: ../options.php:486
+msgid "Show car rental count in location items"
+msgstr ""
+
+#: ../options.php:487
+msgid "Show car rental count in location items shown location list page"
+msgstr ""
+
+#: ../options.php:493
+msgid "Single location permalink slug"
+msgstr ""
+
+#: ../options.php:494
+msgid ""
+"The permalink slug used for single locations (by default it is set to "
+"\"location\". <br /><strong>Note:</strong> Please make sure you flush your "
+"rewrite rules after changing this setting. You can do so by navigating to <a "
+"href=\"/wp-admin/options-permalink.php\">Settings->Permalinks</a> and "
+"clicking \"Save Changes\"."
+msgstr ""
+
+#: ../options.php:500
+msgid "Locations archive posts per page"
+msgstr ""
+
+#: ../options.php:501
+msgid "Number of locations to display on locations archive page"
+msgstr ""
+
+#: ../options.php:507
+msgid "Tabs displayed on single location page."
+msgstr ""
+
+#: ../options.php:508 ../options.php:547 ../options.php:586 ../options.php:625
+#: ../options.php:664
+msgid "Use drag&drop to change order of tabs."
+msgstr ""
+
+#: ../options.php:514
+msgid "Extra fields displayed on single location page."
+msgstr ""
+
+#: ../options.php:515 ../options.php:554 ../options.php:593 ../options.php:632
+#: ../options.php:671
+msgid "Select the tab your field is displayed on from the tab dropdown."
+msgstr ""
+
+#: ../options.php:525
+msgid "Enable Accommodations"
+msgstr ""
+
+#: ../options.php:526
+msgid "Enable \"Accommodations\" data-type"
+msgstr ""
+
+#: ../options.php:532
+msgid "Single accommodation permalink slug"
+msgstr ""
+
+#: ../options.php:533
+msgid ""
+"The permalink slug used for creating single accommodations (by default it is "
+"set to \"hotel\". <br /><strong>Note:</strong> Please make sure you flush "
+"your rewrite rules after changing this setting. You can do so by navigating "
+"to <a href=\"/wp-admin/options-permalink.php\">Settings->Permalinks</a> and "
+"clicking \"Save Changes\"."
+msgstr ""
+
+#: ../options.php:539
+msgid "Accommodations archive posts per page"
+msgstr ""
+
+#: ../options.php:540
+msgid "Number of accommodations to display on accommodations archive page"
+msgstr ""
+
+#: ../options.php:546
+msgid "Tabs displayed on single accommodation page."
+msgstr ""
+
+#: ../options.php:553
+msgid "Extra fields displayed on single accommodation page."
+msgstr ""
+
+#: ../options.php:564
+msgid "Enable Tours"
+msgstr ""
+
+#: ../options.php:565
+msgid "Enable \"Tours\" data-type"
+msgstr ""
+
+#: ../options.php:571
+msgid "Tours archive posts per page"
+msgstr ""
+
+#: ../options.php:572
+msgid "Number of tours to display on tours archive page"
+msgstr ""
+
+#: ../options.php:578
+msgid "Single tour permalink slug"
+msgstr ""
+
+#: ../options.php:579
+msgid ""
+"The permalink slug used for single tours (by default it is set to \"tour\". "
+"<br /><strong>Note:</strong> Please make sure you flush your rewrite rules "
+"after changing this setting. You can do so by navigating to <a href=\"/wp-"
+"admin/options-permalink.php\">Settings->Permalinks</a> and clicking \"Save "
+"Changes\"."
+msgstr ""
+
+#: ../options.php:585
+msgid "Tabs displayed on single tour page."
+msgstr ""
+
+#: ../options.php:592
+msgid "Extra fields displayed on single tour page."
+msgstr ""
+
+#: ../options.php:599
+msgid "Car Rentals"
+msgstr ""
+
+#: ../options.php:603
+msgid "Enable Car rentals"
+msgstr ""
+
+#: ../options.php:604
+msgid "Enable \"Car rentals\" data-type"
+msgstr ""
+
+#: ../options.php:610
+msgid "Car rentals archive posts per page"
+msgstr ""
+
+#: ../options.php:611
+msgid "Number of car rentals to display on car rentals archive page"
+msgstr ""
+
+#: ../options.php:617
+msgid "Single car rental permalink slug"
+msgstr ""
+
+#: ../options.php:618
+msgid ""
+"The permalink slug used for single car rentals (by default it is set to "
+"\"car-rental\". <br /><strong>Note:</strong> Please make sure you flush your "
+"rewrite rules after changing this setting. You can do so by navigating to <a "
+"href=\"/wp-admin/options-permalink.php\">Settings->Permalinks</a> and "
+"clicking \"Save Changes\"."
+msgstr ""
+
+#: ../options.php:624
+msgid "Tabs displayed on single car rental page."
+msgstr ""
+
+#: ../options.php:631
+msgid "Extra fields displayed on single car rental page."
+msgstr ""
+
+#: ../options.php:642
+msgid "Enable Cruises"
+msgstr ""
+
+#: ../options.php:643
+msgid "Enable \"Cruises\" data-type"
+msgstr ""
+
+#: ../options.php:649
+msgid "Cruises archive posts per page"
+msgstr ""
+
+#: ../options.php:650
+msgid "Number of cruises to display on cruises archive page"
+msgstr ""
+
+#: ../options.php:656
+msgid "Single cruise permalink slug"
+msgstr ""
+
+#: ../options.php:657
+msgid ""
+"The permalink slug used for single cruises (by default it is set to \"cruise"
+"\". <br /><strong>Note:</strong> Please make sure you flush your rewrite "
+"rules after changing this setting. You can do so by navigating to <a href=\"/"
+"wp-admin/options-permalink.php\">Settings->Permalinks</a> and clicking "
+"\"Save Changes\"."
+msgstr ""
+
+#: ../options.php:663
+msgid "Tabs displayed on single cruise page."
+msgstr ""
+
+#: ../options.php:670
+msgid "Extra fields displayed on single cruise page."
+msgstr ""
+
+#: ../options.php:681
+msgid "Enable Reviews"
+msgstr ""
+
+#: ../options.php:682
+msgid "Enable \"Reviews\" data-type"
+msgstr ""
+
+#: ../options.php:688
+msgid "Synchronise reviews"
+msgstr ""
+
+#: ../options.php:689
+msgid "Synchronise review totals"
+msgstr ""
+
+#: ../options.php:690
+msgid ""
+"Click this button to synchronise review totals if your review totals are out "
+"of sync"
+msgstr ""
+
+#: ../options.php:696
+msgid "Accommodation review fields"
+msgstr ""
+
+#: ../options.php:697
+msgid "Review fields for single accommodation"
+msgstr ""
+
+#: ../options.php:703
+msgid "Tour review fields"
+msgstr ""
+
+#: ../options.php:704
+msgid "Review fields for single tour."
+msgstr ""
+
+#: ../options.php:710
+msgid "Cruise review fields"
+msgstr ""
+
+#: ../options.php:711
+msgid "Review fields for single cruise."
+msgstr ""
+
+#: ../options.php:721
+msgid "Upgrades"
+msgstr ""
+
+#: ../options.php:734
+msgid "Click here to upgrade"
+msgstr ""
+
+#: ../options.php:746
+msgid "Fix partial booking issue"
+msgstr ""
+
+#: ../options.php:747
+msgid "Click this button to fix partial booking issue"
+msgstr ""
+
+#: ../page-car_rental-list.php:93 ../page-tour-list.php:92
+#: ../single-accommodation.php:1 ../single-car_rental.php:45
+#: ../single-cruise.php:47 ../single-tour.php:56
+msgid "You failed to provide {0} fields. They have been highlighted below."
+msgstr ""
+
+#: ../page-contact-form-7.php:45 ../page-contact.php:138
+msgid "Or contact us directly"
+msgstr ""
+
+#: ../page-contact.php:58
+#, php-format
+msgid "Contact form submission from %s"
+msgstr ""
+
+#: ../page-contact.php:59
+#, php-format
+msgid ""
+"Name: %s\n"
+"\n"
+"Email: %s\n"
+"\n"
+"Message: %s"
+msgstr ""
+
+#: ../page-contact.php:64
+msgid "To submit contact form, please enable JavaScript"
+msgstr ""
+
+#: ../page-contact.php:92
+msgid "Send us a message"
+msgstr ""
+
+#: ../page-contact.php:100
+msgid "Thank you for contacting us. We will get back to you as soon as we can."
+msgstr ""
+
+#: ../page-contact.php:113
+msgid "Your e-mail"
+msgstr ""
+
+#: ../page-contact.php:117
+msgid "Your message"
+msgstr ""
+
+#: ../page-contact.php:129
+msgid "Send"
+msgstr ""
+
+#: ../page-user-account.php:63 ../page-user-content-list.php:76
+msgid "My account"
+msgstr ""
+
+#: ../page-user-account.php:67 ../page-user-content-list.php:80
+#: ../page-user-submit-content.php:70
+msgid "Settings"
+msgstr ""
+
+#: ../page-user-account.php:69
+msgid "My Accommodation Bookings"
+msgstr ""
+
+#: ../page-user-account.php:72
+msgid "My Reviews"
+msgstr ""
+
+#: ../page-user-account.php:76 ../page-user-content-list.php:83
+#: ../page-user-submit-content.php:73
+msgid "My Room Types"
+msgstr ""
+
+#: ../page-user-account.php:77 ../page-user-content-list.php:84
+#: ../page-user-submit-content.php:74
+msgid "My Accommodations"
+msgstr ""
+
+#: ../page-user-account.php:78 ../page-user-content-list.php:85
+#: ../page-user-submit-content.php:75
+msgid "My Vacancies"
+msgstr ""
+
+#: ../page-user-account.php:79 ../page-user-content-list.php:86
+#: ../page-user-submit-content.php:76
+msgid "Submit Room Types"
+msgstr ""
+
+#: ../page-user-account.php:80 ../page-user-content-list.php:87
+#: ../page-user-submit-content.php:77
+msgid "Submit Accommodations"
+msgstr ""
+
+#: ../page-user-account.php:81 ../page-user-content-list.php:88
+#: ../page-user-submit-content.php:78
+msgid "Submit Vacancies"
+msgstr ""
+
+#: ../page-user-account.php:91
+msgid "First name is a required field!"
+msgstr ""
+
+#: ../page-user-account.php:92
+msgid "Last name is a required field!"
+msgstr ""
+
+#: ../page-user-account.php:93
+msgid "Please enter valid email address!"
+msgstr ""
+
+#: ../page-user-account.php:94
+msgid "Password is a required field!"
+msgstr ""
+
+#: ../page-user-account.php:95
+msgid "Old password is a required field!"
+msgstr ""
+
+#: ../page-user-account.php:99
+msgid "Personal details"
+msgstr ""
+
+#: ../page-user-account.php:148
+msgid "Current password"
+msgstr ""
+
+#: ../page-user-account.php:150
+msgid "New password"
+msgstr ""
+
+#: ../page-user-account.php:185
+msgid "Booking number"
+msgstr ""
+
+#: ../page-user-account.php:232
+msgid "You have not made any bookings yet!"
+msgstr ""
+
+#: ../page-user-account.php:268
+#, php-format
+msgid "Your review of accommodation %s"
+msgstr ""
+
+#: ../page-user-account.php:270
+#, php-format
+msgid "Your review of tour %s"
+msgstr ""
+
+#: ../page-user-account.php:285
+msgid "You have not left any reviews yet!"
+msgstr ""
+
+#: ../page-user-content-list.php:127
+msgid "You have not submitted any accommodations yet."
+msgstr ""
+
+#: ../page-user-content-list.php:149
+msgid "Filter by"
+msgstr ""
+
+#: ../page-user-content-list.php:186
+msgid "Vacancy Id"
+msgstr ""
+
+#: ../page-user-content-list.php:205
+msgid "Available rooms"
+msgstr ""
+
+#: ../page-user-content-list.php:231
+msgid "You have not created any vacancies yet."
+msgstr ""
+
+#: ../page-user-content-list.php:241 ../page-user-content-list.php:266
+#: ../single-accommodation.php:1 ../single-cruise.php:114
+#: ../single-cruise.php:153
+msgid "+ more info"
+msgstr ""
+
+#: ../page-user-content-list.php:242 ../single-accommodation.php:1
+#: ../single-cruise.php:115
+msgid "+ less info"
+msgstr ""
+
+#: ../page-user-content-list.php:270 ../single-accommodation.php:1
+#: ../single-cruise.php:157
+msgid "Max:"
+msgstr ""
+
+#: ../page-user-content-list.php:280 ../single-accommodation.php:1
+msgid "Room facilities:"
+msgstr ""
+
+#: ../page-user-content-list.php:282 ../single-accommodation.php:1
+#: ../single-cruise.php:187
+msgid "Bed size:"
+msgstr ""
+
+#: ../page-user-content-list.php:283 ../single-accommodation.php:1
+msgid "Room size:"
+msgstr ""
+
+#: ../page-user-content-list.php:289
+msgid "You have not submitted any room types yet."
+msgstr ""
+
+#: ../page-user-forgot-pass.php:45 ../page-user-forgot-pass.php:47
+msgid "You must enter a valid and existing email address or username."
+msgstr ""
+
+#: ../page-user-forgot-pass.php:95 ../page-user-forgot-pass.php:132
+msgid "Reset password"
+msgstr ""
+
+#: ../page-user-forgot-pass.php:100
+msgid ""
+"Please confirm the request to reset your password by clicking the link sent "
+"to your email address."
+msgstr ""
+
+#: ../page-user-forgot-pass.php:111
+msgid ""
+"Your password was successfully reset. We have sent the new password to your "
+"email address."
+msgstr ""
+
+#: ../page-user-forgot-pass.php:115
+msgid ""
+"We encountered an error when attempting to reset your password. Please try "
+"again later."
+msgstr ""
+
+#: ../page-user-forgot-pass.php:127
+msgid "Username or email address"
+msgstr ""
+
+#: ../page-user-login.php:74 ../page-user-register.php:231
+msgid "Forgotten your password?"
+msgstr ""
+
+#: ../page-user-login.php:74 ../page-user-register.php:231
+msgid "Reset it here"
+msgstr ""
+
+#: ../page-user-login.php:77
+msgid "Incorrect username or password. Please try again."
+msgstr ""
+
+#: ../page-user-login.php:93
+msgid "Remember Me"
+msgstr ""
+
+#: ../page-user-register.php:63
+msgid "Username is required."
+msgstr ""
+
+#: ../page-user-register.php:66
+msgid "Sorry, username must be 6 characters or more."
+msgstr ""
+
+#: ../page-user-register.php:69
+msgid "Sorry, the username you provided is invalid."
+msgstr ""
+
+#: ../page-user-register.php:72
+msgid "Sorry, that username already exists."
+msgstr ""
+
+#: ../page-user-register.php:78
+msgid "Password is required."
+msgstr ""
+
+#: ../page-user-register.php:81
+msgid "Sorry, password must be 6 characters or more."
+msgstr ""
+
+#: ../page-user-register.php:84
+msgid "Password and confirm password fields must match."
+msgstr ""
+
+#: ../page-user-register.php:90
+msgid "You must enter a valid email address."
+msgstr ""
+
+#: ../page-user-register.php:93
+msgid "Sorry, that email address is already in use."
+msgstr ""
+
+#: ../page-user-register.php:98
+msgid "You must agree to our terms &amp; conditions to sign up."
+msgstr ""
+
+#: ../page-user-register.php:109
+msgid "You must input the correct captcha answer."
+msgstr ""
+
+#: ../page-user-register.php:112
+msgid "You must input a valid captcha answer."
+msgstr ""
+
+#: ../page-user-register.php:189
+msgid ""
+"Account was successfully created. Please click the activation link in the "
+"email we just sent you to complete the registration process."
+msgstr ""
+
+#: ../page-user-register.php:200
+#, php-format
+msgid ""
+"User account successfully activated. Please proceed to the <a href=\"%s"
+"\">login</a> page to login in."
+msgstr ""
+
+#: ../page-user-register.php:207
+msgid "An error was encountered when attempting to activate your account."
+msgstr ""
+
+#: ../page-user-register.php:218
+msgid "Activation link was successfully sent."
+msgstr ""
+
+#: ../page-user-register.php:223
+msgid ""
+"An error was encountered when attempting to send the activation link. Please "
+"try again later."
+msgstr ""
+
+#: ../page-user-register.php:231
+msgid "Already a member?"
+msgstr ""
+
+#: ../page-user-register.php:231
+#, php-format
+msgid "Proceed to <a href=\"%s\">login</a> page"
+msgstr ""
+
+#: ../page-user-register.php:237
+msgid "Errors were encountered when processing your registration request."
+msgstr ""
+
+#: ../sidebar-right-accommodation.php:48 ../sidebar-right-cruise.php:40
+#: ../sidebar-right-tour.php:48
+msgid "Leave a review"
+msgstr ""
+
+#: ../sidebar-right-accommodation.php:52
+msgid "Thank you for submitting a review."
+msgstr ""
+
+#: ../sidebar-right-accommodation.php:57 ../sidebar-right-car_rental.php:40
+#: ../sidebar-right-cruise.php:44 ../sidebar-right-tour.php:52
+msgid "Send inquiry"
+msgstr ""
+
+#: ../sidebar-right-accommodation.php:60
+msgid ""
+"Thank you for submitting an inquiry. We will get back to you as soon as we "
+"can."
+msgstr ""
+
+#: ../single-accommodation.php:1
+#, php-format
+msgid "Total price (first %d children stay free)"
+msgstr ""
+
+#: ../single-accommodation.php:1
+#, php-format
+msgid "Accommodation requires %d minimum days stay!"
+msgstr ""
+
+#: ../single-accommodation.php:1 ../single-car_rental.php:44
+#: ../single-cruise.php:46 ../single-tour.php:55
+msgid "You failed to provide 1 field. It has been highlighted below."
+msgstr ""
+
+#: ../single-accommodation.php:1 ../single-cruise.php:326
+#: ../single-tour.php:176
+msgid "Price per adult"
+msgstr ""
+
+#: ../single-accommodation.php:1 ../single-cruise.php:166
+msgid "Price from:"
+msgstr ""
+
+#: ../single-accommodation.php:1
+msgid "We are sorry, this accommodation is not available to book at the moment"
+msgstr ""
+
+#: ../single-accommodation.php:1
+msgid ""
+"We are sorry, there are no rooms available at this accommodation at the "
+"moment"
+msgstr ""
+
+#: ../single-accommodation.php:1 ../single-cruise.php:106
+#: ../single-tour.php:114
+msgid "General"
+msgstr ""
+
+#: ../single-accommodation.php:1
+msgid "Sports and nature"
+msgstr ""
+
+#: ../single-accommodation.php:1
+msgid "Culture &amp; history"
+msgstr ""
+
+#: ../single-accommodation.php:1 ../single-cruise.php:225
+msgid "Read more"
+msgstr ""
+
+#: ../single-accommodation.php:1
+msgid "Select booking dates:"
+msgstr ""
+
+#: ../single-accommodation.php:1
+msgid "Check out"
+msgstr ""
+
+#: ../single-accommodation.php:1 ../single-cruise.php:344
+#: ../single-tour.php:195
+msgid "Reset"
+msgstr ""
+
+#: ../single-accommodation.php:1 ../single-cruise.php:345
+#: ../single-tour.php:196
+msgid "Proceed"
+msgstr ""
+
+#: ../single-cruise.php:120 ../single-tour.php:124
+msgid "Available departures"
+msgstr ""
+
+#: ../single-cruise.php:127
+msgid "<p>This is a daily cruise.</p>"
+msgstr ""
+
+#: ../single-cruise.php:129
+msgid "<p>This cruise is repeated every weekday (working day).</p>"
+msgstr ""
+
+#: ../single-cruise.php:131
+#, php-format
+msgid "<p>This cruise is repeated every week on a %s.</p>"
+msgstr ""
+
+#: ../single-cruise.php:185
+msgid "Cabin facilities:"
+msgstr ""
+
+#: ../single-cruise.php:188
+msgid "Cabin size:"
+msgstr ""
+
+#: ../single-cruise.php:202
+msgid ""
+"We are sorry, there are no cabins available at this cruise at the moment"
+msgstr ""
+
+#: ../single-cruise.php:295
+msgid "Select cruise start date"
+msgstr ""
+
+#: ../single-location.php:1
+msgid "Things to do - general"
+msgstr ""
+
+#: ../single-location.php:1
+msgid "Unfortunately there are no hotels at this location at the moment."
+msgstr ""
+
+#: ../single-location.php:1
+msgid ""
+"Unfortunately there are no self-catering offers at this location at the "
+"moment."
+msgstr ""
+
+#: ../single-location.php:1
+msgid "Unfortunately there are no tour offers at this location at the moment."
+msgstr ""
+
+#: ../single-location.php:1
+msgid ""
+"Unfortunately there are no cruise offers at this location at the moment."
+msgstr ""
+
+#: ../single-location.php:1
+msgid ""
+"Unfortunately there are no car rental offers at this location at the moment."
+msgstr ""
+
+#: ../single-tour.php:131
+msgid "<p>This is a daily tour.</p>"
+msgstr ""
+
+#: ../single-tour.php:133
+msgid "<p>This tour is repeated every weekday (working day).</p>"
+msgstr ""
+
+#: ../single-tour.php:135
+#, php-format
+msgid "<p>This tour is repeated every week on a %s.</p>"
+msgstr ""
+
+#: ../single-tour.php:145
+msgid "Select tour date"
+msgstr ""
+
+#: ../single-tour.php:199
+msgid "Unfortunately, no places are available on this tour at the moment"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27 ../woocommerce/checkout/review-order.php:17
+#: ../woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:28
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:36
+#: ../woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:60
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:126
+#: ../woocommerce/order/order-details.php:130
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:148
+msgid "Refunded:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:157
+msgid "Note:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:167
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:172
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:176
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:176
+msgid "Telephone"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:193
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:212
+msgid "Shipping Address"
+msgstr ""
